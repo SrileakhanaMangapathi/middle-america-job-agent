@@ -1,0 +1,106 @@
+AI for Engineers
+Group Assignment: Middle America Job and Application Agent
+Complete Assignment Packet  |  Group Size: 5 Students
+
+1. Assignment Overview
+Design and implement an AI agent that autonomously browses the web to find AI Engineer jobs at mid-sized "Middle America" companies (not big tech or startups), then simulates applicant workflows by tailoring resumes and cover letters. The agent must filter and rank jobs, then generate personalized applications.
+
+Group size: 5 students
+Deliverables: Code repository, report (8-10 pages), recorded demo (8-10 min), peer assessment, individual reflections.
+
+Learning Objectives
+Build production-ready agent skills across:
+•	Web interaction and scraping
+•	LLM personalization and prompt engineering
+•	Constraint-based filtering and ranking
+•	Hiring-focused evaluation and benchmarking
+•	Ethical AI and bias analysis
+
+
+2. Agent Pipeline & Scenario
+Pipeline Steps
+1.	Search job boards; extract title, company, location, skills, salary, and URL.
+2.	Filter: Blacklist FAANG+; exclude startups (<50 employees heuristic).
+3.	Rank top 10 by skill match, location preference, and recency.
+4.	Applicant Simulation: Tailor provided sample resume + cover letter for top 3 jobs.
+
+Sample Resume: Generic AI Engineer profile (3-5 years experience, Python / TensorFlow / MLflow skill set).
+
+Group Roles
+5.	Product Lead: Requirements, constraints, sample resume definition.
+6.	Agent Architect: Pipeline flow and architecture design.
+7.	Web Engineer: Scraping and parsing using APIs such as SerpAPI.
+8.	LLM Engineer: Ranking logic and tailoring prompt engineering.
+9.	Eval Lead: Benchmark experiments and bias analysis.
+
+
+3. Required Components
+3.1 Design Document (2-3 pages)
+•	Pipeline diagram (visual flow of all stages).
+•	Filter heuristics with justification.
+•	Tailoring workflow description.
+
+3.2 Implementation
+•	Complete end-to-end pipeline: Search → Filter → Rank → Tailor.
+•	Logging of all decisions and rationales at each stage.
+
+3.3 Evaluation (Core)
+Hiring Simulation (Priority):
+•	Construct a ground-truth 20-job benchmark (10 interview-worthy, 10 rejects).
+•	Have 3 humans score the agent shortlist: "Interview? (Yes/No)".
+•	Compute Precision@10 and interview yield.
+Additional Evaluation:
+•	Tailoring: Human score (1-5) compared to manual baseline.
+•	Adaptation: Filter toggle test (e.g., "Iowa-only" mode).
+
+3.4 Report (8-10 pages)
+10.	Introduction and requirements.
+11.	Design and implementation details.
+12.	Evaluation results (hiring simulation focus).
+13.	Bias and ethics analysis (tailoring fairness).
+14.	Appendix: Agent trace.
+
+3.5 Recorded Demo (8-10 minutes)
+•	Fresh query run with screen share + voiceover.
+•	Filter toggle demonstration (e.g., Texas → adapt).
+•	Top job explanation: "85% match, Texas, <30 days."
+•	Tailor sample resume for top 3 jobs; narrate changes.
+•	One failure case + how the team fixed it.
+•	Unlisted video URL with timestamped segments.
+
+3.6 Individual Reflections (1 page each)
+•	Personal role and contributions to the project.
+•	Reflection on hiring equity and the ethical impact of the agent.
+
+
+4. Student Submission Checklist
+Before submitting, each group must verify all items below are included and complete. Use the self-check column to confirm.
+
+Deliverable	Requirements / What to Include	Self-Check (✓)
+Design Doc (2-3 pages)	Pipeline diagram; filter heuristics explained; tailoring workflow description	
+Implementation (Code)	End-to-end pipeline: Search → Filter → Rank → Tailor. Include logging of decisions and rationales.	
+Evaluation Results	20-job benchmark (10 interview-worthy / 10 rejects); Precision@10 + interview yield metrics; tailoring human scores (1-5); filter toggle experiment.	
+Report (8-10 pages)	Sections: Intro, Design/Impl, Eval results (hiring sim focus), Bias/Ethics, Appendix (agent trace).	
+Recorded Demo (8-10 min)	Fresh query run; filter toggle demo; top-job explanation (match %, location, recency); tailoring narration for top 3 jobs; one failure + fix. Unlisted video with timestamps.	
+Individual Reflections	1 page per student: personal role/contributions; reflection on hiring equity impact.	
+Peer Assessment	Each member submits scores and comments for all teammates on contribution, communication, and quality.	
+Code Repository	Shared GitHub/GitLab repo with README, requirements.txt / environment.yml, and clear run instructions.	
+
+Tip for students: TAs will run your code from scratch using only your README. If it fails to run, implementation points will be deducted.
+
+
+5. Role-Specific Accountability
+Each student is primarily responsible for their assigned role deliverables. TAs will verify individual contributions through the peer assessment, reflections, and git commit history.
+
+Role	Primary Deliverables	TA Verification Points
+Product Lead	Requirements doc, sample resume, constraint definitions.	Is resume realistic (3-5 yr AI Engineer)? Are constraints (FAANG blacklist, ≥50 employees) clearly defined and enforced?
+Agent Architect	Pipeline design, architecture diagram, integration plan.	Does architecture diagram match actual code structure? Is separation of concerns maintained?
+Web Engineer	Scraping/parsing module, API integration (SerpAPI), data extraction.	Does job extraction reliably capture title, company, location, skills, salary, URL? Any rate-limit handling?
+LLM Engineer	Ranking logic, tailoring prompts, personalization output.	Are ranking criteria (skill/location/recency) applied correctly? Are tailored docs meaningfully differentiated?
+Eval Lead	Benchmark dataset, metrics computation, bias analysis.	Is benchmark sound (20 jobs, labeled)? Are Precision@10 and yield computed correctly? Is bias section substantive?
+
+Note: The overall group grade is shared, but peer assessment scores can adjust individual grades by up to ±5 points.
+
+
+Please upload your code in Github with a proper readme file on how to install packages and run your code.
+
