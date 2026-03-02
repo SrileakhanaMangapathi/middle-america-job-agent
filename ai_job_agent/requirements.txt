@@ -3,3 +3,4 @@ python-dotenv
 tenacity
 pytest
 pyyaml
+spacy
