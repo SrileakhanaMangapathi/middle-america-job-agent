@@ -8,6 +8,7 @@ from typing import List, Optional
 from ai_job_agent.src.models.job import Job
 from ai_job_agent.src.utils.api_client import SerpAPIClient
 from ai_job_agent.src.utils.logger import setup_logger
+from ai_job_agent.src.utils.skill_extractor import extract_skills
 from ai_job_agent.src.utils.storage import save_json
 
 _DATA_DIR = Path(__file__).resolve().parents[3] / "data"
@@ -71,20 +72,23 @@ class SearchModule:
                     continue
                 seen_ids.add(job_id)
 
+                desc = raw.get("description", "")
+                required_skills, preferred_skills = extract_skills(desc)
+
                 job = Job(
                     job_id=job_id,
                     title=title,
                     company_name=company,
                     location=loc,
-                    description=raw.get("description", ""),
+                    description=desc,
                     job_url=raw.get("share_link", raw.get("job_url", "")),
                     posted_date=raw.get("detected_extensions", {}).get(
                         "posted_at"
                     ),
                     salary_range=self.extract_salary(raw),
                     company_size=None,
-                    required_skills=[],
-                    preferred_skills=[],
+                    required_skills=required_skills,
+                    preferred_skills=preferred_skills,
                 )
                 jobs.append(job)
             except Exception as exc:  # noqa: BLE001
