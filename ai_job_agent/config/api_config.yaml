@@ -1,0 +1,10 @@
+api:
+  engine: google_jobs
+  default_num_results: 50
+  rate_limit_calls_per_hour: 100
+
+retry:
+  max_attempts: 3
+  backoff_multiplier: 1
+  backoff_min_seconds: 2
+  backoff_max_seconds: 10
