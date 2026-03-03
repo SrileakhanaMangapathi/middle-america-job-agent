@@ -1,0 +1,899 @@
+[
+  {
+    "title": "Distinguished Engineer - AI Infrastructure Architecture",
+    "company_name": "Cisco",
+    "location": "Portland, OR (+36 others)",
+    "via": "Cisco",
+    "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Engineer&htidocid=jG11LAUVIeGVSJvwAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_yXIsQrCMBCAYVy7uzjdLLYRwUWnoiJ1UPEFShrPJBLvSu4KfSAfVMXlh-8v3pPivI-ikfwQJeAdDuQjIWYooW6goUe2onlwOmSEOrsQFf8o4cQdCNrvBCY4MvuEs21Q7WVjjEiqvKjV6CrHL8OEHY_myZ380kqwGftkFdvVejlWPfn5dBfFMUSCK2dNlu4LuNw-1UpxkacAAAA&shmds=v1_ATWGeePiV_MmXckE1HL6M1OzYrzF02pa-9jNsCrwKkNk8lf3kQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Engineer&htidocid=jG11LAUVIeGVSJvwAAAAAA%3D%3D",
+    "thumbnail": "https://serpapi.com/searches/69a73924529e4b335befd868/images/KddkIaoWE0eao3BS_7Vge7YJbi68l4liQCXqlRf9Ufw.png",
+    "extensions": [
+      "5 days ago",
+      "Full-time",
+      "Health insurance",
+      "Paid time off",
+      "Dental insurance"
+    ],
+    "detected_extensions": {
+      "posted_at": "5 days ago",
+      "schedule_type": "Full-time",
+      "health_insurance": true,
+      "paid_time_off": true,
+      "dental_coverage": true
+    },
+    "description": "Splunk, a Cisco company, is building a safer and more resilient digital world with an end-to-end full stack platform made for a hybrid, multi-cloud world. Leading enterprises use our unified security and observability platform to keep their digital systems secure and reliable. Come help organizations be their best, while you reach new heights with a team that has your back.\n\nMeet the Team\n\nOur Distinguished Engineer team drives architecture and technical direction for Splunk's $3.5B platform, ingesting petabytes of data for over 95% of the Fortune 100. As a tight-knit group of DEs reporting to the VP of Architecture, we operate autonomously while coordinating closely on practical, durable solutions that evolve the platform for future requirements. Each DE owns cross-organizational domains that shift fluidly as needs arise. Work alongside exceptionally smart engineers who value rigorous thinking and friendly collaboration—this is where the technical future gets defined!\n\nImpact:\n\nArchitect and operationalize AI infrastructure as a core component of Cisco Data Fabric, enabling engineering teams to integrate AI capabilities across the world's largest, most diverse data sets. Design MLOps platforms that solve complex lifecycle challenges—managing embedding model migrations, version compatibility, and continuous model updates—while ensuring operational excellence through monitoring, governance, and serving at petabyte scale. Identify and drive new opportunities for leveraging AI across the stack, establishing consistent architectural patterns for agent prompts, tool integration, and model orchestration. Build data pipelines and operational frameworks that enable hundreds of engineers to confidently deploy both LLMs and traditional ML models into production. Success is measured by customer adoption and usage of AI-powered features, alongside operational metrics—model performance, inference latency, and deployment velocity—that directly impact customer value.\n\nMinimum Qualifications:\n• Bachelor's in Computer Science (or equivalent) with 15+ years of related experience; or Master's with 12+ years; or PhD with 8+ years or equivalent experience\n• Designed and deployed AI/ML infrastructure and features in production cloud environments\n• Experience with major AI services including OpenAI, Anthropic, HuggingFace, AWS Bedrock, Azure OpenAI Service, or similar platforms\n• Production experience with AWS, Azure, or GCP cloud platform\n• Led technical decisions and architectural direction across engineering organizations of 50+ engineers\n\nPreferred Qualifications:\n• Experience with LLM-specific infrastructure including agent frameworks, prompt management, and tool integration\n• Model serving at scale with experience in inference optimization and performance monitoring\n• Designed and deployed AI/ML infrastructure for on-premises environments\n• Experience with major ML frameworks (TensorFlow, PyTorch, etc.) and model formats\n• Proven track record mentoring and growing engineers, with strong collaboration skills\n\nWhy Cisco?\n\nAt Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\n\nWe are Cisco, and our power starts with you.\n\nMessage to applicants applying to work in the U.S. and/or Canada:\n\nThe starting salary range posted for this position is $267,600.00 to $339,400.00 and reflects the projected salary range for new hires in this position in U.S. and/or Canada locations, not including incentive compensation*, equity, or benefits.\n\nIndividual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process.\n\nU.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover more benefits and perks. Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time.\n\nU.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:\n• 10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees\n• 1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco\n• Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees\n• Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)\n• 80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next\n• Additional paid time away may be requested to deal with critical or emergency issues for family members\n• Optional 10 paid days per full calendar year to volunteer\n\nFor non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies.\n\nEmployees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan. For quota-based incentive pay, Cisco typically pays as follows:\n• .75% of incentive target for each 1% of revenue attainment up to 50% of quota;\n• 1.5% of incentive target for each 1% of attainment between 50% and 75%;\n• 1% of incentive target for each 1% of attainment between 75% and 100%; and\n• Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation.\n\nFor non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid.\n\nThe applicable full salary ranges for this position, by specific state, are listed below:\n\nNew York City Metro Area:\n$273,200.00 - $442,600.00\n\nNon-Metro New York state & Washington state:\n$267,600.00 - $390,300.00\n• For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined.\n• * Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements.",
+    "job_highlights": [
+      {
+        "title": "Qualifications",
+        "items": [
+          "Bachelor's in Computer Science (or equivalent) with 15+ years of related experience; or Master's with 12+ years; or PhD with 8+ years or equivalent experience",
+          "Designed and deployed AI/ML infrastructure and features in production cloud environments",
+          "Experience with major AI services including OpenAI, Anthropic, HuggingFace, AWS Bedrock, Azure OpenAI Service, or similar platforms",
+          "Production experience with AWS, Azure, or GCP cloud platform",
+          "Led technical decisions and architectural direction across engineering organizations of 50+ engineers"
+        ]
+      },
+      {
+        "title": "Benefits",
+        "items": [
+          "The starting salary range posted for this position is $267,600.00 to $339,400.00 and reflects the projected salary range for new hires in this position in U.S. and/or Canada locations, not including incentive compensation*, equity, or benefits",
+          "Individual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training",
+          "The full salary range for certain locations is listed below",
+          "For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process",
+          "U.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance",
+          "Please see the Cisco careers site to discover more benefits and perks",
+          "Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time",
+          "U.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:",
+          "10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees",
+          "1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco",
+          "Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees",
+          "Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)",
+          "80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next",
+          "Additional paid time away may be requested to deal with critical or emergency issues for family members",
+          "Optional 10 paid days per full calendar year to volunteer",
+          "For non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies",
+          "Employees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan",
+          "For quota-based incentive pay, Cisco typically pays as follows:",
+          ".75% of incentive target for each 1% of revenue attainment up to 50% of quota;",
+          "1.5% of incentive target for each 1% of attainment between 50% and 75%;",
+          "1% of incentive target for each 1% of attainment between 75% and 100%; and",
+          "Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation",
+          "For non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target",
+          "Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid",
+          "For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined",
+          "Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements"
+        ]
+      },
+      {
+        "title": "Responsibilities",
+        "items": [
+          "Architect and operationalize AI infrastructure as a core component of Cisco Data Fabric, enabling engineering teams to integrate AI capabilities across the world's largest, most diverse data sets",
+          "Design MLOps platforms that solve complex lifecycle challenges—managing embedding model migrations, version compatibility, and continuous model updates—while ensuring operational excellence through monitoring, governance, and serving at petabyte scale",
+          "Identify and drive new opportunities for leveraging AI across the stack, establishing consistent architectural patterns for agent prompts, tool integration, and model orchestration",
+          "Build data pipelines and operational frameworks that enable hundreds of engineers to confidently deploy both LLMs and traditional ML models into production",
+          "Success is measured by customer adoption and usage of AI-powered features, alongside operational metrics—model performance, inference latency, and deployment velocity—that directly impact customer value"
+        ]
+      }
+    ],
+    "apply_options": [
+      {
+        "title": "Cisco",
+        "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2000797EXTERNALENGLOBAL/Distinguished-Engineer-AI-Infrastructure-Architecture?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "LocalJobs.com",
+        "link": "https://www.localjobs.com/job/frankfort-ky-distinguished-engineer-ai-infrastructure-architecture?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Snagajob",
+        "link": "https://www.snagajob.com/jobs/1189884720?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Adzuna",
+        "link": "https://www.adzuna.com/details/5508289164?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Career.io",
+        "link": "https://career.io/job/distinguished-engineer-ai-infrastructure-architecture-frankfort-cisco-systems-inc-e47d19962486760b2dc2866295d2de7f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Jobs For Stevenage Fans",
+        "link": "https://jobs.stevenagefc.com/jobs/lead-principal-software-engineer-ai-infrastructure-networking-frankfort-kentucky/2604796031-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Jobs | Kentucky Career Center",
+        "link": "https://kyjobs.usnlx.com/frankfort-ky/principal-software-engineer-ai-gpu-innovation/ABE587466F4543298A40A2BF967ECE8A/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "KSNT Jobs",
+        "link": "https://jobs.ksnt.com/jobs/lead-principal-software-engineer-ai-infrastructure-networking-frankfort-kentucky/2604796031-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ],
+    "job_id": "eyJqb2JfdGl0bGUiOiJEaXN0aW5ndWlzaGVkIEVuZ2luZWVyIC0gQUkgSW5mcmFzdHJ1Y3R1cmUgQXJjaGl0ZWN0dXJlIiwiY29tcGFueV9uYW1lIjoiQ2lzY28iLCJhZGRyZXNzX2NpdHkiOiJQb3J0bGFuZCwgT1IiLCJodGlkb2NpZCI6ImpHMTFMQVVWSWVHVlNKdndBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3In0="
+  },
+  {
+    "title": "Senior AI Data and Evaluation Engineer",
+    "company_name": "Stryker",
+    "location": "Menlo Park, CA",
+    "via": "Stryker",
+    "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Engineer&htidocid=5BlLYofD9KL8i8ZaAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWMQQrCMBAA8dof6GnPoo0IXhQPRYsoCEIfULZ1SWLjbslGqS_xu9bLXIaZ7DvJ9hWxlwjFGY6YEJDvUL4xvDB5YSjZeiaKsISLNKCEsXUwipOIDTTbuZR63RqjGnKraazavJWnEaZGBvOQRv-o1WGkPmCier1ZDXnPdj6tUvx049wzXImDwA1jt4BD8QNrTq48mgAAAA&shmds=v1_ATWGeePL5PVSCOv-Ks521M7XgLIzWxxic2dZdO4ggYPnRax7Rw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Engineer&htidocid=5BlLYofD9KL8i8ZaAAAAAA%3D%3D",
+    "thumbnail": "https://serpapi.com/searches/69a73924529e4b335befd868/images/JmvXymx1puvL00wmS5LwvcdUSEKXV4S68kMAVpLaCno.png",
+    "extensions": [
+      "7 days ago",
+      "Full-time",
+      "Health insurance"
+    ],
+    "detected_extensions": {
+      "posted_at": "7 days ago",
+      "schedule_type": "Full-time",
+      "health_insurance": true
+    },
+    "description": "What You Will Do:\nWe are looking for an experienced and highly skilled Senior AI Data and Validation Engineer. A successful candidate will be responsible for both dry and wet lab experiments for AI functionality acquiring datasets, developing labeling guidelines, and preparing dataset for AI model development. Also, candidate will be responsible for developing methods and processes for scientific evaluation of AI/ML models used in medical devices, ensuring compliance with all applicable FDA guidelines and regulations. This role is crucial for maintaining the safety, effectiveness, and quality of AI-enabled medical devices throughout their product lifecycle from initial training to final validation. The engineer will contribute to the design, execution, and analysis of validation studies, ensuring that the devices perform predictably and reliably for their intended use and across all relevant demographic groups., placing a strong emphasis on comprehensive data management practices, including data collection, processing, annotation, storage, and use. This includes ensuring data integrity, quality, and representativeness to mitigate potential biases and demonstrate the safety, effectiveness, and quality of AI-enabled medical devices throughout their lifecycle.\n\nWhat you will do:\n• Perform dataset collection, develop, synthesis, generation, preparing datasets for AI development, stress testing and validation.\n• Execute web lab experiments that interact with human blood samples with good laboratory practice.\n• Create detailed validation plans, protocols, and reports for AI-enabled medical device software functions encompassing both performance validation and model evaluation.\n• Perform Data Operation such as management of data used in both the development and validation of AI models, ensuring the quality, diversity, and independence of datasets . This involves assessing data representativeness, addressing potential biases, and ensuring the appropriate separation of training and test datasets\n• Conduct comprehensive risk assessment for AI models, considering potential and unintended biases, limitations, and cybersecurity vulnerabilities\n• Conduct rigorous performance validation studies, analyzing performance across different subgroups of the intended user population .\n• Perform analysis to address transparency and bias throughout the device lifecycle, from design to post-market surveillance . This includes evaluating whether a device benefits all relevant demographic groups similarly and incorporating transparency into device design\n• Stay abreast of the latest FDA guidelines, regulations, and industry best practices related to AI model validation in medical devices.\n\nMinimum Qualifications (Required):\n• Bachelor's Degree in Computer Science, Machine Learning, Electrical Engineering, Mathematics, Statistics, Bioengineering or related field, 2+ years of work experience required.\n• OR Master's Degree in the above fields\n\nPreferred Qualifications (Strongly desired):\n• 2+ years of experience in medical device R&D, preferably AI-enabled devices.\n• Fluent in commercial data analysis tools or similar scripting and statistical language for data analysis, Python preferred.\n• Experience in the development, evaluation and validation of AI models, specifically within the medical device or healthcare industry. This experience including one or more of the following R&D life cycle: Data Acquisition and preprocessing and labeling, model training and tuning, AI Model evaluation and performance, bias detection and mitigation, risk assessment, and QMS documentation\n• Experience in Statistics and descriptive data analysis to help develop data-driven scientific rigor to AI model validation process, including experience with one or more of the following: confidence intervals development, power analysis, statistical tests, etc.\n• Entry level knowledge with AI/ML frameworks such as PyTorch, OpenCV, TensorFlow, scikit-learn etc. for model training and development, testing and validation.\n• Experience with commercial Data Operation tools\n• General knowledge of the healthcare market and competitors.\n• $116k - $193k salary plus bonus eligible + benefits. Individual pay is based on skills, experience, and other relevant factors.",
+    "job_highlights": [
+      {
+        "title": "Qualifications",
+        "items": [
+          "We are looking for an experienced and highly skilled Senior AI Data and Validation Engineer",
+          "Bachelor's Degree in Computer Science, Machine Learning, Electrical Engineering, Mathematics, Statistics, Bioengineering or related field, 2+ years of work experience required",
+          "OR Master's Degree in the above fields",
+          "This experience including one or more of the following R&D life cycle: Data Acquisition and preprocessing and labeling, model training and tuning, AI Model evaluation and performance, bias detection and mitigation, risk assessment, and QMS documentation",
+          "Experience in Statistics and descriptive data analysis to help develop data-driven scientific rigor to AI model validation process, including experience with one or more of the following: confidence intervals development, power analysis, statistical tests, etc",
+          "Entry level knowledge with AI/ML frameworks such as PyTorch, OpenCV, TensorFlow, scikit-learn etc. for model training and development, testing and validation",
+          "Experience with commercial Data Operation tools",
+          "General knowledge of the healthcare market and competitors"
+        ]
+      },
+      {
+        "title": "Benefits",
+        "items": [
+          "$116k - $193k salary plus bonus eligible + benefits",
+          "Individual pay is based on skills, experience, and other relevant factors"
+        ]
+      },
+      {
+        "title": "Responsibilities",
+        "items": [
+          "A successful candidate will be responsible for both dry and wet lab experiments for AI functionality acquiring datasets, developing labeling guidelines, and preparing dataset for AI model development",
+          "Also, candidate will be responsible for developing methods and processes for scientific evaluation of AI/ML models used in medical devices, ensuring compliance with all applicable FDA guidelines and regulations",
+          "This role is crucial for maintaining the safety, effectiveness, and quality of AI-enabled medical devices throughout their product lifecycle from initial training to final validation",
+          "The engineer will contribute to the design, execution, and analysis of validation studies, ensuring that the devices perform predictably and reliably for their intended use and across all relevant demographic groups., placing a strong emphasis on comprehensive data management practices, including data collection, processing, annotation, storage, and use",
+          "This includes ensuring data integrity, quality, and representativeness to mitigate potential biases and demonstrate the safety, effectiveness, and quality of AI-enabled medical devices throughout their lifecycle",
+          "Perform dataset collection, develop, synthesis, generation, preparing datasets for AI development, stress testing and validation",
+          "Execute web lab experiments that interact with human blood samples with good laboratory practice",
+          "Create detailed validation plans, protocols, and reports for AI-enabled medical device software functions encompassing both performance validation and model evaluation",
+          "Perform Data Operation such as management of data used in both the development and validation of AI models, ensuring the quality, diversity, and independence of datasets ",
+          "This involves assessing data representativeness, addressing potential biases, and ensuring the appropriate separation of training and test datasets",
+          "Conduct comprehensive risk assessment for AI models, considering potential and unintended biases, limitations, and cybersecurity vulnerabilities",
+          "Conduct rigorous performance validation studies, analyzing performance across different subgroups of the intended user population ",
+          "Perform analysis to address transparency and bias throughout the device lifecycle, from design to post-market surveillance ",
+          "This includes evaluating whether a device benefits all relevant demographic groups similarly and incorporating transparency into device design",
+          "Stay abreast of the latest FDA guidelines, regulations, and industry best practices related to AI model validation in medical devices"
+        ]
+      }
+    ],
+    "apply_options": [
+      {
+        "title": "Stryker",
+        "link": "https://careers.stryker.com/senior-ai-data-and-evaluation-engineer/job/84B121D6A94DEF7D9FDB3FDFB5EB5EAC?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Workday",
+        "link": "https://stryker.wd1.myworkdayjobs.com/ko-KR/StrykerCareers/job/Senior-AI-Data-and-Evaluation-Engineer_R556926?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "ZipRecruiter",
+        "link": "https://www.ziprecruiter.com/c/Stryker/Job/Senior-AI-Data-and-Evaluation-Engineer/-in-Menlo-Park,CA?jid=bb8d8f526a52c087&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Glassdoor",
+        "link": "https://www.glassdoor.com/job-listing/senior-ai-data-and-evaluation-engineer-stryker-JV_IC1147371_KO0,38_KE39,46.htm?jl=1010007704070&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Dice",
+        "link": "https://www.dice.com/job-detail/ded1b10a-befb-4c12-8eb3-2e8b9ecdc461?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "SimplyHired",
+        "link": "https://www.simplyhired.com/job/vR5ou_UUFdqkFg19WEKnCoduBJE-5CMDKv6cIk_9H3Y5AK2MrI8e5w?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "LinkedIn",
+        "link": "https://www.linkedin.com/jobs/view/senior-ai-data-and-evaluation-engineer-at-stryker-4320889176?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "NPloy",
+        "link": "https://nploy.net/jobs/it-and-technology/remote/senior-solution-engineer-data-and-ai/218762-X?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ],
+    "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQUkgRGF0YSBhbmQgRXZhbHVhdGlvbiBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IlN0cnlrZXIiLCJhZGRyZXNzX2NpdHkiOiJNZW5sbyBQYXJrLCBDQSIsImh0aWRvY2lkIjoiNUJsTFlvZkQ5S0w4aThaYUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3cifQ=="
+  },
+  {
+    "title": "AI Engineer – Entry Level",
+    "company_name": "Centennial Technologies",
+    "location": "Tysons, VA",
+    "via": "Indeed",
+    "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Engineer&htidocid=Dm8dy5EQ7-wAXAJUAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXHsQrCMBAAUFz7CU63uIg2UnDRqYiI4lhcSxqOJCXeldwh7eY_uPh9fom6PHjFe1ZU9RmO5CMhZvg8X79onuCKD0ywhgt3IGizC8AEJ2afcL4PqoPsjBFJpRe1Gl3p-G6YsOPR9NzJn1aCzTgkq9hW281YDuSXiwOSIlG0CRp0gTixjygQCZpJmGQFt_oL7FJ8h5sAAAA&shmds=v1_ATWGeeOdkekEA9ae_tM4pgza9FNfEUPBaq7LEpPbUd9Rq4IMog&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Engineer&htidocid=Dm8dy5EQ7-wAXAJUAAAAAA%3D%3D",
+    "thumbnail": "https://serpapi.com/searches/69a73924529e4b335befd868/images/4Yzbo61wuRqQx8nYul8AMvcV3thoCel4JBe0NCMzHlo.jpeg",
+    "extensions": [
+      "Full-time",
+      "Dental insurance",
+      "Paid time off",
+      "Health insurance"
+    ],
+    "detected_extensions": {
+      "schedule_type": "Full-time",
+      "dental_coverage": true,
+      "paid_time_off": true,
+      "health_insurance": true
+    },
+    "description": "Job Description:\n\nCentennial Technologies is seeking talented and motivated AI Engineer with good technical expertise in modern AI frameworks and workflows. This role will focus on designing, developing, and deploying advanced AI models and intelligent systems to solve complex problems in healthcare, and financial domains. The ideal candidate has some hands-on experience deploying AI and workflow solutions and can translate research into production-ready solutions.\n\nKey Responsibilities:\n• Design, build, and deploy workflows using n8n and integrate with backend systems.\n• Deploy models into production environments using APIs, microservices, and cloud-native platforms.\n• Design, develop, and train learning models for NLP and predictive analytics.\n• Implement and optimize models using Python, PyTorch, and related frameworks\n• Monitor, evaluate, and improve model performance, scalability, and reliability.\n• Research and experiment with state-of-the-art AI/ML methods (LLMs, transformers, generative AI).\n• Collaborate with cross-functional teams to integrate AI capabilities into applications and workflows.\n• Document model architectures, experiments, and workflows to ensure reproducibility.\n• Ensure AI solutions adhere to data privacy, compliance, and ethical AI practice.\n\nKey Qualifications:\n• 0-2 years of experience in AI or related field\n• Bachelor’s degree in computer science, Data Science, AI/ML, or related technical field (Master’s preferred).\n• Any experience using n8n/ Temporal workflow automation platforms is a BIG plus\n• Expertise in programming languages such as Python, big data technologies (e.g., Spark, Hadoop) and data manipulation libraries (e.g., Pandas, NumPy).\n• Solid knowledge of classical ML algorithms, deep learning architectures, and modern AI techniques, large language models (LLMs), generative AI, and reinforcement learning.\n• Any hands-on experience with Microsoft technologies, including Azure cloud platform and Azure OpenAI building, training and deploying models is a BIG plus.\n• Strong understanding of software engineering best practices (Git, CI/CD)\n\nPreferred Qualifications:\n• Prior experience in healthcare, regulatory technology, or enterprise automation is a plus.\n• Knowledge of data governance, security, and compliance frameworks (HIPAA, GDPR, FedRAMP) is a plus\n• Experience with MLOps tools (MLflow, Kubeflow, Weights & Biases, etc.) is a plus\n• Contributions to open-source AI projects or research publications is a plus\n• Familiarity with containerization and orchestration (Docker, Kubernetes) is a plus\n\nWork Conditions\n• Location: Hybrid – At least 4 days onsite in Tysons Corner, VA.\n• Job Type: Full-time\n\nAbout Centennial Technologies Inc.:\n\nCentennial Technologies Inc. is committed to a healthy work-life balance and provides a collaborative and supportive professional environment. We offer flexible PTO, casual work culture, and regular opportunities for career advancement and skills development.\n\nBenefits include:\n• Medical, Dental, and Vision Insurance\n• Short-Term and Long-Term Disability\n• Life Insurance\n• 401(k) Retirement Plan\n• Paid Time Off and Federal Holidays\n\nOur Culture:\n• Supportive work environment that promotes work-life balance\n• Performance-based rewards and recognition\n• Regular employee feedback and collaboration\n• Paid training in emerging technologies and federal compliance\n• Client-focused, employee-centered growth\n\nEqual Opportunity Employer: Centennial is an equal opportunity employer and complies with all applicable federal, state, and local employment laws\n\nState: DMV Virginia\n\nCity: Tysons Corner\n\nCategory: Information Technology & Services\n\nWork Arrangements: Full Time",
+    "job_highlights": [
+      {
+        "title": "Qualifications",
+        "items": [
+          "The ideal candidate has some hands-on experience deploying AI and workflow solutions and can translate research into production-ready solutions",
+          "0-2 years of experience in AI or related field",
+          "Any experience using n8n/ Temporal workflow automation platforms is a BIG plus",
+          "Expertise in programming languages such as Python, big data technologies (e.g., Spark, Hadoop) and data manipulation libraries (e.g., Pandas, NumPy)",
+          "Solid knowledge of classical ML algorithms, deep learning architectures, and modern AI techniques, large language models (LLMs), generative AI, and reinforcement learning",
+          "Any hands-on experience with Microsoft technologies, including Azure cloud platform and Azure OpenAI building, training and deploying models is a BIG plus",
+          "Strong understanding of software engineering best practices (Git, CI/CD)"
+        ]
+      },
+      {
+        "title": "Benefits",
+        "items": [
+          "We offer flexible PTO, casual work culture, and regular opportunities for career advancement and skills development",
+          "Medical, Dental, and Vision Insurance",
+          "Short-Term and Long-Term Disability",
+          "Life Insurance",
+          "401(k) Retirement Plan",
+          "Paid Time Off and Federal Holidays",
+          "Supportive work environment that promotes work-life balance",
+          "Performance-based rewards and recognition",
+          "Regular employee feedback and collaboration",
+          "Paid training in emerging technologies and federal compliance",
+          "Client-focused, employee-centered growth"
+        ]
+      },
+      {
+        "title": "Responsibilities",
+        "items": [
+          "This role will focus on designing, developing, and deploying advanced AI models and intelligent systems to solve complex problems in healthcare, and financial domains",
+          "Design, build, and deploy workflows using n8n and integrate with backend systems",
+          "Deploy models into production environments using APIs, microservices, and cloud-native platforms",
+          "Design, develop, and train learning models for NLP and predictive analytics",
+          "Implement and optimize models using Python, PyTorch, and related frameworks",
+          "Monitor, evaluate, and improve model performance, scalability, and reliability",
+          "Research and experiment with state-of-the-art AI/ML methods (LLMs, transformers, generative AI)",
+          "Collaborate with cross-functional teams to integrate AI capabilities into applications and workflows",
+          "Document model architectures, experiments, and workflows to ensure reproducibility",
+          "Ensure AI solutions adhere to data privacy, compliance, and ethical AI practice",
+          "Location: Hybrid – At least 4 days onsite in Tysons Corner, VA"
+        ]
+      }
+    ],
+    "apply_options": [
+      {
+        "title": "Indeed",
+        "link": "https://www.indeed.com/viewjob?jk=1bf21c59b0d0c7f4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Glassdoor",
+        "link": "https://www.glassdoor.com/job-listing/ai-engineer-entry-level-centennial-technologies-JV_IC3728413_KO0,23_KE24,47.htm?jl=1009987903327&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "SimplyHired",
+        "link": "https://www.simplyhired.com/job/hUEexvXfn1cTfPd5KfhvGbfF8T43xmDRf6fkceXbF6avlFrQ4P3-6Q?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ],
+    "job_id": "eyJqb2JfdGl0bGUiOiJBSSBFbmdpbmVlciDigJMgRW50cnkgTGV2ZWwiLCJjb21wYW55X25hbWUiOiJDZW50ZW5uaWFsIFRlY2hub2xvZ2llcyIsImFkZHJlc3NfY2l0eSI6IlR5c29ucywgVkEiLCJodGlkb2NpZCI6IkRtOGR5NUVRNy13QVhBSlVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3In0="
+  },
+  {
+    "title": "AI Engineer",
+    "company_name": "MassMutual",
+    "location": "Chicopee, MA",
+    "via": "GetHiredToday - Women For Hire",
+    "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Engineer&htidocid=SNlvBXvPp-6bbsthAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAA0L2f0OlwFE1EcNGpiIhCvqEk4Ugi6V3IXaGL_y6-4Q3fYTe94EGpEGKHI7w5gKDvMQMTPJlTxfGWVZtcrRWpJol6LdFEXiwTBt7sh4P8myX7jq16xfl8OW2mUdqPzou4VVdfoRDcc4ncEA_gph8WWBlqfwAAAA&shmds=v1_ATWGeeM5rNEL3IzFxW5yf3osa5DE1O3oXNvVA94VZ4WVLzlw2w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Engineer&htidocid=SNlvBXvPp-6bbsthAAAAAA%3D%3D",
+    "extensions": [
+      "2 days ago",
+      "Full-time"
+    ],
+    "detected_extensions": {
+      "posted_at": "2 days ago",
+      "schedule_type": "Full-time"
+    },
+    "description": "Job Description\n\nAI Engineer\n\nFull Time Hybrid (Boston, NYC, Springfield)\n\nThe Opportunity\n\nThis is a unique opportunity to work alongside experts in applied mathematics, statistics, computer science, and physics—collaborating on initiatives that shape the future of MassMutual and the life insurance industry at large.\n\nThe Team\n\nMassMutual’s Data Science team is seeking an impact-driven AI Engineer to join our high-performing, cross-functional team. In this role, you will develop and deploy advanced AI solutions that drive strategic decision-making and business transformation. You’ll apply cutting-edge techniques in machine learning, generative AI, and large language models (LLMs) to solve complex, high-value problems across the enterprise.\n\nThe Impact\n• Develop and deploy end-to-end ML/AI solutions supporting various use cases for a large enterprise using LLMs, deep learning, and probabilistic modeling—from ideation to production.\n• Deploy scalable GenAI and Agentic AI systems that directly support business goals.\n• Establish and promote best practices in AI development and responsible AI deployment.\n• Collaborate with engineering teams to build robust, production-grade AI pipelines and APIs.\n• Prototype and deliver AI-powered applications (e.g., web apps, dashboards, visualizations) that enable data-driven decisions.\n\nMinimum Requirements:\n• 5+ years proficiency in SQL and database design; familiarity with cloud-native data platforms, vector databases, and semantic search is a plus.\n• 5+ years skills in Python. Proficiency in R is a plus.\n• 5+ years experience Deep understanding of machine learning, statistics, NLP, optimization, and LLMs.\n• 3+ years of experience in data science, machine learning, or AI engineering roles.\n• 2+ years experience Hands-on with AI deployment and orchestration frameworks and protocols (e.g., agentcore, strands, langchain, MCP, A2A).\n• 2+ years extensive experience and background in AI agents and LLM systems, including tool use, multi-step workflows, RAG, prompt management, and evaluating LLM and agentic behavior across a variety of foundation models and benchmarks.\n• 2+ years experience building AI-powered applications and collaborating with software engineers and product managers.\n• 2+ years experience with cloud-native development, containerization, and orchestration technologies such as Docker and Kubernetes\n• M.S. in Computer Science, Statistics, Applied Mathematics, Electrical Engineering, Physics, or a related quantitative field.\n\nIdeal Qualifications\n• Track record of delivering impactful solutions.\n• Exceptional communication skills, with the ability to explain complex concepts to non-technical stakeholders.\n\n#LI-SC1\n\nMassMutual is an equal employment opportunity employer. We welcome all persons to apply.\n\nIf you need an accommodation to complete the application process, please contact us and share the specifics of the assistance you need.\n\nCalifornia residents: For detailed information about your rights under the California Consumer Privacy Act (CCPA), please visit our California Consumer Privacy Act Disclosures page.",
+    "job_highlights": [
+      {
+        "title": "Qualifications",
+        "items": [
+          "5+ years skills in Python",
+          "5+ years experience Deep understanding of machine learning, statistics, NLP, optimization, and LLMs",
+          "3+ years of experience in data science, machine learning, or AI engineering roles",
+          "2+ years experience Hands-on with AI deployment and orchestration frameworks and protocols (e.g., agentcore, strands, langchain, MCP, A2A)",
+          "2+ years extensive experience and background in AI agents and LLM systems, including tool use, multi-step workflows, RAG, prompt management, and evaluating LLM and agentic behavior across a variety of foundation models and benchmarks",
+          "2+ years experience building AI-powered applications and collaborating with software engineers and product managers",
+          "2+ years experience with cloud-native development, containerization, and orchestration technologies such as Docker and Kubernetes",
+          "M.S. in Computer Science, Statistics, Applied Mathematics, Electrical Engineering, Physics, or a related quantitative field",
+          "Track record of delivering impactful solutions",
+          "Exceptional communication skills, with the ability to explain complex concepts to non-technical stakeholders"
+        ]
+      },
+      {
+        "title": "Responsibilities",
+        "items": [
+          "In this role, you will develop and deploy advanced AI solutions that drive strategic decision-making and business transformation",
+          "You’ll apply cutting-edge techniques in machine learning, generative AI, and large language models (LLMs) to solve complex, high-value problems across the enterprise",
+          "Develop and deploy end-to-end ML/AI solutions supporting various use cases for a large enterprise using LLMs, deep learning, and probabilistic modeling—from ideation to production",
+          "Deploy scalable GenAI and Agentic AI systems that directly support business goals",
+          "Establish and promote best practices in AI development and responsible AI deployment",
+          "Collaborate with engineering teams to build robust, production-grade AI pipelines and APIs",
+          "Prototype and deliver AI-powered applications (e.g., web apps, dashboards, visualizations) that enable data-driven decisions"
+        ]
+      }
+    ],
+    "apply_options": [
+      {
+        "title": "GetHiredToday - Women For Hire",
+        "link": "https://jobs.womenforhire.com/job/usa/chicopee-ma/ai-engineer-025156/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ],
+    "job_id": "eyJqb2JfdGl0bGUiOiJBSSBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6Ik1hc3NNdXR1YWwiLCJhZGRyZXNzX2NpdHkiOiJDaGljb3BlZSwgTUEiLCJodGlkb2NpZCI6IlNObHZCWHZQcC02YmJzdGhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3In0="
+  },
+  {
+    "title": "AI Solutions Architect / Field Application Engineer",
+    "company_name": "Advanced Micro Devices, Inc",
+    "location": "Austin, TX",
+    "via": "AMD Careers",
+    "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Engineer&htidocid=X02OxNxDz9T3ss2IAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWLuwrCQBAAsc0nWG2raE4EG60OfBDBSgs7uWyWZOXcPbKn5MP8QGMzzcwU30lx9hVcNb4zqxj4HjvOhBkcHJliAz6lyBj-Gg7SshD1sISz1mAUxhxGcVJtI013Xc7Jts6ZxbK1PF5Yor6cCtU6uKfW9sfDutBTiiHTY71ZDWWSdj7zzScIUgMXxl5hTx9GsgVUgsAC_m2ZZQG3-w8EVPOFtwAAAA&shmds=v1_ATWGeeMBpBjnqt1xmVCWmzROaVlLdIqCLU0jHC9IR42YJqFG3A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Engineer&htidocid=X02OxNxDz9T3ss2IAAAAAA%3D%3D",
+    "extensions": [
+      "16 days ago",
+      "Full-time"
+    ],
+    "detected_extensions": {
+      "posted_at": "16 days ago",
+      "schedule_type": "Full-time"
+    },
+    "description": "WHAT YOU DO AT AMD CHANGES EVERYTHING\n\nAt AMD, our mission is to build great products that accelerate next-generation computing experiences—from AI and data centers, to PCs, gaming and embedded systems. Grounded in a culture of innovation and collaboration, we believe real progress comes from bold ideas, human ingenuity and a shared passion to create something extraordinary. When you join AMD, you’ll discover the real differentiator is our culture. We push the limits of innovation to solve the world’s most important challenges—striving for execution excellence, while being direct, humble, collaborative, and inclusive of diverse perspectives. Join us as we shape the future of AI and beyond. Together, we advance your career.\n\nTHE ROLE:\n\nWe are looking for an AI enthusiast with strong technical fundamentals and customer-facing aptitude to join AMD as an AI Solutions Architect / Field Application Engineer. This is a frontline, tip-of-the-spear role where you will work closely with customers, internal engineering teams, and ecosystem partners to help deploy, optimize, and scale AI and high-performance workloads on AMD CPU and GPU platforms.\n\nThis role blends hands-on systems work, AI workload enablement, and technical program management. You will help customers move from early exploration through proof-of-concept and into production, while acting as a technical bridge between field requirements and internal AMD teams.\n\nTHE PERSON:\n\nDoes this sound like you? We’d love to talk!\n• Excellent problem-solving, time-management, prioritization, and organizational skills, able to lead complex problems, involving multi-disciplined, multi-functional teams and many priorities at once\n• A standout colleague with excellent collaborative skills, and ability to work independently or as part of a team\n• Outstanding oral and written communication skills and demonstrated success in building strong technical relationships (internal: Sales, Marketing, Engineering and external: OEM)\n• Attention to detail combined with outstanding planning and organizational skills\n\nKEY RESPONSIBILITIES:\n\nCustomer & Field Engagement\n• Serve as a technical point of contact for customers, supporting AI and HPC workloads on AMD CPU and GPU platforms.\n• Work directly with customers to understand their use cases, requirements, and constraints, and guide them through solution design and deployment.\n• Deliver technical presentations, demos, and architecture walkthroughs to both technical and non-technical audiences.\n• Program-manage customer opportunities as they grow in complexity, coordinating activities across internal and external stakeholders.\n\nTechnical Enablement & Hands-On Work\n• Perform hands-on system bring-up including hardware installation, firmware configuration, OS installation, and driver setup.\n• Deploy and validate open-source AI and HPC software stacks (e.g., Linux, ROCm, AI frameworks, containers).\n• Run functionality, performance, and scalability benchmarks on CPU and GPU workloads.\n• Perform first-level profiling and analysis of applications to identify performance bottlenecks and optimization opportunities.\n• Support AI workloads such as training, inference, and data preprocessing across CPU and GPU platforms.\n\nArchitecture & Platform Knowledge\n• Develop working knowledge of AMD CPU and GPU architectures and how they impact real-world workloads.\n• Understand full-stack solutions spanning hardware, system software, drivers, frameworks, and applications.\n• Assist in solution design for on-premises, cloud, and hybrid deployments.\n\nCross-Functional Collaboration\n• Collaborate closely with engineering, product management, marketing, and sales teams to represent customer needs.\n• Provide structured feedback from the field to help influence product features, documentation, and roadmap decisions.\n• Contribute to internal knowledge sharing, best practices, and team initiatives.\n\nREQUIRED QUALIFICATIONS:\n• Bachelor’s degree in Computer Science, Electrical Engineering, Computer Engineering, or a related field (or equivalent practical experience).\n• Strong interest in AI/ML technologies and a desire to work across hardware and software layers.\n• Hands-on experience with Linux-based systems.\n• Programming experience in one or more of the following: Python, C/C++, Bash.\n• Familiarity with AI frameworks or tools (e.g., PyTorch, TensorFlow, ONNX, Hugging Face, or similar).\n• Strong communication skills with the ability to explain technical concepts clearly.\n• Ability to work effectively in a team-oriented, cross-functional environment.\n\nPREFERRED QUALIFICATIONS:\n• Experience working with GPU computing and/or accelerator-based workloads.\n• Exposure to profiling and performance analysis tools for CPU and GPU workloads.\n• Understanding of computer architecture concepts (CPU pipelines, memory hierarchy, GPU execution models).\n• Experience setting up or working in a lab environment with servers, networking, and storage.\n• Familiarity with cloud platforms such as AWS, Azure, Google Cloud, or Oracle Cloud, including compute instance types and accelerators.\n• Knowledge of containers and orchestration (Docker, Kubernetes).\n• Prior internship, co-op, or project experience in customer-facing or field engineering roles.\n\nWhat Success Looks Like in This Role\n• Customers are able to successfully deploy and optimize AI/CPU workloads on AMD platforms with your support.\n• You build credibility as a trusted technical advisor internally and externally.\n• You grow quickly in both technical depth and customer engagement skills, taking on increasingly complex opportunities.\n• You actively contribute to a collaborative, high-performing team culture.\n\nLOCATIONS:\n\nAustin, TX but can be flexible\n\n(Hybrid / Onsite as required for customer and lab engagements)\n\n#LI-RF1\n\n#LI-HYBRID\n\nThis role is not eligible for visa sponsorship.\n\nBenefits offered are described: AMD benefits at a glance.\n\nAMD does not accept unsolicited resumes from headhunters, recruitment agencies, or fee-based recruitment services. AMD and its subsidiaries are equal opportunity, inclusive employers and will consider all applicants without regard to age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third-party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status, or any other characteristic protected by law. We encourage applications from all qualified candidates and will accommodate applicants’ needs under the respective laws throughout all stages of the recruitment and selection process.\n\nAMD may use Artificial Intelligence to help screen, assess or select applicants for this position. AMD’s “Responsible AI Policy” is available here.\n\nThis posting is for an existing vacancy.",
+    "job_highlights": [
+      {
+        "title": "Qualifications",
+        "items": [
+          "We are looking for an AI enthusiast with strong technical fundamentals and customer-facing aptitude to join AMD as an AI Solutions Architect / Field Application Engineer",
+          "Excellent problem-solving, time-management, prioritization, and organizational skills, able to lead complex problems, involving multi-disciplined, multi-functional teams and many priorities at once",
+          "A standout colleague with excellent collaborative skills, and ability to work independently or as part of a team",
+          "Outstanding oral and written communication skills and demonstrated success in building strong technical relationships (internal: Sales, Marketing, Engineering and external: OEM)",
+          "Attention to detail combined with outstanding planning and organizational skills",
+          "Architecture & Platform Knowledge",
+          "Develop working knowledge of AMD CPU and GPU architectures and how they impact real-world workloads",
+          "Bachelor’s degree in Computer Science, Electrical Engineering, Computer Engineering, or a related field (or equivalent practical experience)",
+          "Strong interest in AI/ML technologies and a desire to work across hardware and software layers",
+          "Hands-on experience with Linux-based systems",
+          "Programming experience in one or more of the following: Python, C/C++, Bash",
+          "Familiarity with AI frameworks or tools (e.g., PyTorch, TensorFlow, ONNX, Hugging Face, or similar)",
+          "Strong communication skills with the ability to explain technical concepts clearly",
+          "Ability to work effectively in a team-oriented, cross-functional environment",
+          "Customers are able to successfully deploy and optimize AI/CPU workloads on AMD platforms with your support",
+          "You build credibility as a trusted technical advisor internally and externally",
+          "You grow quickly in both technical depth and customer engagement skills, taking on increasingly complex opportunities"
+        ]
+      },
+      {
+        "title": "Responsibilities",
+        "items": [
+          "This is a frontline, tip-of-the-spear role where you will work closely with customers, internal engineering teams, and ecosystem partners to help deploy, optimize, and scale AI and high-performance workloads on AMD CPU and GPU platforms",
+          "This role blends hands-on systems work, AI workload enablement, and technical program management",
+          "You will help customers move from early exploration through proof-of-concept and into production, while acting as a technical bridge between field requirements and internal AMD teams",
+          "Customer & Field Engagement",
+          "Serve as a technical point of contact for customers, supporting AI and HPC workloads on AMD CPU and GPU platforms",
+          "Work directly with customers to understand their use cases, requirements, and constraints, and guide them through solution design and deployment",
+          "Deliver technical presentations, demos, and architecture walkthroughs to both technical and non-technical audiences",
+          "Program-manage customer opportunities as they grow in complexity, coordinating activities across internal and external stakeholders",
+          "Technical Enablement & Hands-On Work",
+          "Perform hands-on system bring-up including hardware installation, firmware configuration, OS installation, and driver setup",
+          "Deploy and validate open-source AI and HPC software stacks (e.g., Linux, ROCm, AI frameworks, containers)",
+          "Run functionality, performance, and scalability benchmarks on CPU and GPU workloads",
+          "Perform first-level profiling and analysis of applications to identify performance bottlenecks and optimization opportunities",
+          "Support AI workloads such as training, inference, and data preprocessing across CPU and GPU platforms",
+          "Understand full-stack solutions spanning hardware, system software, drivers, frameworks, and applications",
+          "Assist in solution design for on-premises, cloud, and hybrid deployments",
+          "Cross-Functional Collaboration",
+          "Collaborate closely with engineering, product management, marketing, and sales teams to represent customer needs",
+          "Provide structured feedback from the field to help influence product features, documentation, and roadmap decisions",
+          "Contribute to internal knowledge sharing, best practices, and team initiatives",
+          "You actively contribute to a collaborative, high-performing team culture",
+          "(Hybrid / Onsite as required for customer and lab engagements)"
+        ]
+      }
+    ],
+    "apply_options": [
+      {
+        "title": "AMD Careers",
+        "link": "https://careers.amd.com/careers-home/jobs/78618?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "ZipRecruiter",
+        "link": "https://www.ziprecruiter.com/c/AMD/Job/AI-Solutions-Architect-Field-Application-Engineer-(FAE)/-in-Austin,TX?jid=ea545a3f447a0849&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Career.io",
+        "link": "https://career.io/job/ai-solutions-architect-field-application-austin-advanced-micro-devices-inc-7450da424fdefe164b6bac217308491c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Dice",
+        "link": "https://www.dice.com/job-detail/8c5cd12e-8012-4fbb-a5b8-020dbc575251?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Jobs For Stevenage Fans",
+        "link": "https://jobs.stevenagefc.com/jobs/azure-infrastructure-solutions-architect-pre-sales-austin-texas/2584951286-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Glassdoor",
+        "link": "https://www.glassdoor.com/job-listing/ai-solutions-architect-field-application-engineer-fae-amd-JV_IC1139761_KO0,53_KE54,57.htm?jl=1010046288429&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "LinkedIn",
+        "link": "https://www.linkedin.com/jobs/view/ai-solutions-architect-field-application-engineer-fae-at-amd-4371908441?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Milwaukee Job",
+        "link": "https://www.milwaukeejobs.com/j/t-AI-Solutions-Architect-Field-Application-Engineer-e-Advanced-Micro-Devices-Inc-l-Austin,-TX-jobs-j41649728.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ],
+    "job_id": "eyJqb2JfdGl0bGUiOiJBSSBTb2x1dGlvbnMgQXJjaGl0ZWN0IC8gRmllbGQgQXBwbGljYXRpb24gRW5naW5lZXIiLCJjb21wYW55X25hbWUiOiJBZHZhbmNlZCBNaWNybyBEZXZpY2VzLCBJbmMiLCJhZGRyZXNzX2NpdHkiOiJBdXN0aW4sIFRYIiwiaHRpZG9jaWQiOiJYMDJPeE54RHo5VDNzczJJQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyJ9"
+  },
+  {
+    "title": "Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
+    "company_name": "Capital One",
+    "location": "San Francisco, CA (+4 others)",
+    "via": "Capital One",
+    "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Engineer&htidocid=iss_ttgKM3uIvFl2AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWMQQrCQBAE8ZoneOqjiiYieNGTBBUlIuIDZLIOm5U4E3ZWyLt8ofHSUFDV2XeU3SqmJ3Yn7MUHYY6YDHDQjzwpBRWbo6ouKDUySAbTs6TghmKKBc5aw5iia6CCo6pvebxtUupsUxRmbe4tDT8ud_ouVLjWvnhpbf95WEORu5YSP1brZZ934mcoqQuJWlyFEQR3EhwiiQvmdI5y9wPkeU61tQAAAA&shmds=v1_ATWGeeNR94KvWoFmh7Hy88jKXGc2m5Pvp-uQdKj4M0xKk692QQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Engineer&htidocid=iss_ttgKM3uIvFl2AAAAAA%3D%3D",
+    "extensions": [
+      "Full-time and Part-time",
+      "Health insurance"
+    ],
+    "detected_extensions": {
+      "schedule_type": "Full-time and Part-time",
+      "health_insurance": true
+    },
+    "description": "Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)\n\nOverview\n\nAt Capital One, we are creating responsible and reliable AI systems, changing banking for good. For years, Capital One has been an industry leader in using machine learning to create real-time, personalized customer experiences. Our investments in technology infrastructure and world-class talent — along with our deep experience in machine learning — position us to be at the forefront of enterprises leveraging AI. From informing customers about unusual charges to answering their questions in real time, our applications of AI & ML are bringing humanity and simplicity to banking. We are committed to continuing to build world-class applied science and engineering teams to deliver our industry leading capabilities with breakthrough product experiences and scalable, high-performance AI infrastructure. At Capital One, you will help bring the transformative power of emerging AI capabilities to reimagine how we serve our customers and businesses who have come to love the products and services we build.\n\nTeam Description:\n\nThe Intelligent Foundations and Experiences (IFX) team is at the center of bringing our vision for AI at Capital One to life. We work hand-in-hand with our partners across the company to advance the state of the art in science and AI engineering, and we build and deploy proprietary solutions that are central to our business and deliver value to millions of customers. Our AI models and platforms empower teams across Capital One to enhance their products with the transformative power of AI, in responsible and scalable ways for the highest leverage impact.\n\nIn this role, you will:\n• Partner with a cross-functional team of engineers, research scientists, technical program managers, and product managers to deliver AI-powered products that change how our associates work and how our customers interact with Capital One.\n• Design, develop, test, deploy, and support AI software components including foundation model training, large language model inference, similarity search, guardrails, model evaluation, experimentation, governance, and observability, etc.\n• Leverage a broad stack of Open Source and SaaS AI technologies such as AWS Ultraclusters, Huggingface, VectorDBs, Nemo Guardrails, PyTorch, and more.\n• Invent and introduce state-of-the-art LLM optimization techniques to improve the performance — scalability, cost, latency, throughput — of large scale production AI systems.\n• Contribute to the technical vision and the long term roadmap of foundational AI systems at Capital One.\n\nThe Ideal Candidate:\n• You love to build systems, take pride in the quality of your work, and also share our passion to do the right thing. You want to work on problems that will help change banking for good.\n• Passion for staying abreast of the latest research, and an ability to intuitively understand scientific publications and judiciously apply novel techniques in production.\n• You adapt quickly and thrive on bringing clarity to big, undefined problems. You love asking questions and digging deep to uncover the root of problems and can articulate your findings concisely with clarity. You have the courage to share new ideas even when they are unproven.\n• You are deeply Technical. You possess a strong foundation in engineering and mathematics, and your expertise in hardware, software, and AI enable you to see and exploit optimization opportunities that others miss.\n• You are a resilient trail blazer who can forge new paths to achieve business goals when the route is unknown.\n\nBasic Qualifications:\n• Bachelor's degree in Computer Science, AI, Electrical Engineering, Computer Engineering, or related fields plus at least 4 years of experience developing AI and ML algorithms or technologies, or a Master's degree in Computer Science, AI, Electrical Engineering, Computer Engineering, or related fields plus at least 2 years of experience developing AI and ML algorithms or technologies\n• At least 4 years of experience programming with Python, Go, Scala, or Java\n\nPreferred Qualifications:\n• 6 years of experience deploying scalable and responsible AI solutions on cloud platforms (e.g. AWS, Google Cloud, Azure, or equivalent private cloud)\n• Experience designing, developing, delivering, and supporting AI services\n• Experience developing AI and ML algorithms or technologies (e.g. LLM Inference, Similarity Search and VectorDBs, Guardrails, Memory) using Python, C++, C#, Java, or Golang\n• Experience developing and applying state-of-the-art techniques for optimizing training and inference software to improve hardware utilization, latency, throughput, and cost\n• Passion for staying abreast of the latest AI research and AI systems, and judiciously apply novel techniques in production\n\nCapital One will consider sponsoring a new qualified applicant for employment authorization for this position.\n\nThe minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.\n\nCambridge, MA: $197,300 - $225,100 for Lead AI Engineer\n\nMcLean, VA: $197,300 - $225,100 for Lead AI Engineer\n\nNew York, NY: $215,200 - $245,600 for Lead AI Engineer\n\nSan Francisco, CA: $215,200 - $245,600 for Lead AI Engineer\n\nSan Jose, CA: $215,200 - $245,600 for Lead AI Engineer\n\nCandidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.\n\nThis role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.\n\nCapital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.\n\nThis role is expected to accept applications for a minimum of 5 business days.\n\nNo agencies please. Capital One is an equal opportunity employer (EOE, including disability/vet) committed to non-discrimination in compliance with applicable federal, state, and local laws. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.\n\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\nFor technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com\n\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\n\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).",
+    "job_highlights": [
+      {
+        "title": "Qualifications",
+        "items": [
+          "You love to build systems, take pride in the quality of your work, and also share our passion to do the right thing",
+          "You want to work on problems that will help change banking for good",
+          "You love asking questions and digging deep to uncover the root of problems and can articulate your findings concisely with clarity",
+          "You have the courage to share new ideas even when they are unproven",
+          "You are deeply Technical",
+          "You possess a strong foundation in engineering and mathematics, and your expertise in hardware, software, and AI enable you to see and exploit optimization opportunities that others miss",
+          "You are a resilient trail blazer who can forge new paths to achieve business goals when the route is unknown",
+          "Bachelor's degree in Computer Science, AI, Electrical Engineering, Computer Engineering, or related fields plus at least 4 years of experience developing AI and ML algorithms or technologies, or a Master's degree in Computer Science, AI, Electrical Engineering, Computer Engineering, or related fields plus at least 2 years of experience developing AI and ML algorithms or technologies",
+          "At least 4 years of experience programming with Python, Go, Scala, or Java",
+          "AWS, Google Cloud, Azure, or equivalent private cloud)",
+          "Experience designing, developing, delivering, and supporting AI services",
+          "Experience developing AI and ML algorithms or technologies (e.g. LLM Inference, Similarity Search and VectorDBs, Guardrails, Memory) using Python, C++, C#, Java, or Golang",
+          "Experience developing and applying state-of-the-art techniques for optimizing training and inference software to improve hardware utilization, latency, throughput, and cost",
+          "Passion for staying abreast of the latest AI research and AI systems, and judiciously apply novel techniques in production"
+        ]
+      },
+      {
+        "title": "Benefits",
+        "items": [
+          "Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked",
+          "Cambridge, MA: $197,300 - $225,100 for Lead AI Engineer",
+          "Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter",
+          "This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI)",
+          "Incentives could be discretionary or non discretionary depending on the plan",
+          "Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being"
+        ]
+      },
+      {
+        "title": "Responsibilities",
+        "items": [
+          "Partner with a cross-functional team of engineers, research scientists, technical program managers, and product managers to deliver AI-powered products that change how our associates work and how our customers interact with Capital One",
+          "Design, develop, test, deploy, and support AI software components including foundation model training, large language model inference, similarity search, guardrails, model evaluation, experimentation, governance, and observability, etc",
+          "Leverage a broad stack of Open Source and SaaS AI technologies such as AWS Ultraclusters, Huggingface, VectorDBs, Nemo Guardrails, PyTorch, and more",
+          "Invent and introduce state-of-the-art LLM optimization techniques to improve the performance — scalability, cost, latency, throughput — of large scale production AI systems",
+          "Contribute to the technical vision and the long term roadmap of foundational AI systems at Capital One",
+          "Passion for staying abreast of the latest research, and an ability to intuitively understand scientific publications and judiciously apply novel techniques in production",
+          "You adapt quickly and thrive on bringing clarity to big, undefined problems"
+        ]
+      }
+    ],
+    "apply_options": [
+      {
+        "title": "Capital One",
+        "link": "https://www.capitalonecareers.com/job/new-york/lead-ai-engineer-ai-foundations-llm-core-and-agentic-ai/1732/87914720832?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "AnitaB.org Job Board",
+        "link": "https://jobs.anitab.org/companies/capital-one/jobs/61730282-lead-ai-engineer-ai-foundations-llm-core-and-agentic-ai?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "ZipRecruiter",
+        "link": "https://www.ziprecruiter.com/c/Capitalone/Job/Lead-AI-Engineer-(AI-Foundations,-LLM-Core-and-Agentic-AI)/-in-New-York,NY?jid=67e98b338206f046&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Built In Boston",
+        "link": "https://www.builtinboston.com/job/lead-ai-engineer-ai-foundations-llm-core-and-agentic-ai/7575383?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Built In NYC",
+        "link": "https://www.builtinnyc.com/job/lead-ai-engineer-ai-foundations-llm-core-and-agentic-ai/7575304?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Dice",
+        "link": "https://www.dice.com/job-detail/ba131b75-13b7-407e-83ff-8489b7060239?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Indeed",
+        "link": "https://www.indeed.com/viewjob?jk=81d919305e8814a5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "San Francisco",
+        "link": "https://www.builtinsf.com/job/lead-ai-engineer-ai-foundations-llm-core-and-agentic-ai/8218120?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ],
+    "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIEFJIEVuZ2luZWVyIChBSSBGb3VuZGF0aW9ucywgTExNIENvcmUgYW5kIEFnZW50aWMgQUkpIiwiY29tcGFueV9uYW1lIjoiQ2FwaXRhbCBPbmUiLCJhZGRyZXNzX2NpdHkiOiJTYW4gRnJhbmNpc2NvLCBDQSIsImh0aWRvY2lkIjoiaXNzX3R0Z0tNM3VJdkZsMkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3cifQ=="
+  },
+  {
+    "title": "AI Engineer",
+    "company_name": "Relay Human Cloud",
+    "location": "Dallas, TX",
+    "via": "Relay Human Cloud",
+    "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Engineer&htidocid=lklqfHeiTQqsmunwAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEvQrCQAwAYFz7CC4GR9GeCC46iYo_ozi4lbQNdydpcjRXqKtPLn7DV3wnxfxwg7P4KEQ9rOCuNRhh3wRQgYuqZ5ruQ87Jds6ZcektY45N2WjnVKjW0b21tn-VBewpMWaqNtv1WCbxi9mDGD9wHToUOLIOLUSBEzKjLeH5-gH5wbYShQAAAA&shmds=v1_ATWGeeOs0NQXp5LTdM5OJaq-pnV7aEx9jmqgGMKucIUcACEuWA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Engineer&htidocid=lklqfHeiTQqsmunwAAAAAA%3D%3D",
+    "extensions": [
+      "8 days ago",
+      "Full-time"
+    ],
+    "detected_extensions": {
+      "posted_at": "8 days ago",
+      "schedule_type": "Full-time"
+    },
+    "description": "Job Overview\n\nThe AI Engineer in the real estate sector plays a pivotal role in designing, developing, and implementing advanced artificial intelligence solutions to optimize property management, valuation, and customer engagement processes. This role involves collaborating closely with data scientists, software developers, and real estate analysts to create predictive models, automate workflows, and enhance decision-making through machine learning and natural language processing technologies. The AI Engineer ensures compliance with relevant data privacy regulations and integrates AI systems with existing real estate platforms to drive innovation and operational efficiency across various business units.\n\nDuties & Responsibilities\n• Design, develop, and deploy AI models and algorithms tailored to real estate applications such as property valuation, predictive analytics, and customer behavior analysis.\n• Collaborate with data scientists, software engineers, and business stakeholders to integrate AI solutions into existing platforms and workflows.\n• Analyze large datasets to extract actionable insights and improve model accuracy and performance.\n• Maintain and optimize AI systems to ensure scalability, reliability, and compliance with industry regulations.\n• Stay current with emerging AI technologies and real estate market trends to recommend innovative solutions.\n• Document AI development processes and provide technical support and training to team members.\n\nEducation & Training\n• Bachelor’s degree in Computer Science, Artificial Intelligence, Data Science, or a related field; Master’s degree preferred\n• Relevant certifications in AI, machine learning, or data analytics (e.g., TensorFlow Developer Certificate, AWS Certified Machine Learning)\n• Training in real estate technology platforms and data management systems is advantageous\n• Continuous professional development in emerging AI technologies and regulatory compliance related to data privacy and real estate transactions\n\nKnowledge, Skills & Experience\n• Strong understanding of machine learning algorithms, neural networks, and natural language processing techniques\n• Proficiency in programming languages such as Python, R, or Java, and experience with AI frameworks like TensorFlow or PyTorch\n• Knowledge of real estate market dynamics, property valuation models, and transaction processes\n• Familiarity with data privacy laws and ethical considerations in AI applications within real estate\n• Analytical mindset with the ability to translate complex data into actionable insights\n• Excellent problem-solving skills and adaptability to evolving technologies\n• Effective communication skills to collaborate with cross-functional teams including real estate professionals and IT specialists\n• Detail-oriented with a commitment to maintaining data accuracy and system integrity",
+    "job_highlights": [
+      {
+        "title": "Qualifications",
+        "items": [
+          "Relevant certifications in AI, machine learning, or data analytics (e.g., TensorFlow Developer Certificate, AWS Certified Machine Learning)",
+          "Training in real estate technology platforms and data management systems is advantageous",
+          "Continuous professional development in emerging AI technologies and regulatory compliance related to data privacy and real estate transactions",
+          "Strong understanding of machine learning algorithms, neural networks, and natural language processing techniques",
+          "Proficiency in programming languages such as Python, R, or Java, and experience with AI frameworks like TensorFlow or PyTorch",
+          "Knowledge of real estate market dynamics, property valuation models, and transaction processes",
+          "Familiarity with data privacy laws and ethical considerations in AI applications within real estate",
+          "Analytical mindset with the ability to translate complex data into actionable insights",
+          "Excellent problem-solving skills and adaptability to evolving technologies",
+          "Effective communication skills to collaborate with cross-functional teams including real estate professionals and IT specialists",
+          "Detail-oriented with a commitment to maintaining data accuracy and system integrity"
+        ]
+      },
+      {
+        "title": "Responsibilities",
+        "items": [
+          "The AI Engineer in the real estate sector plays a pivotal role in designing, developing, and implementing advanced artificial intelligence solutions to optimize property management, valuation, and customer engagement processes",
+          "This role involves collaborating closely with data scientists, software developers, and real estate analysts to create predictive models, automate workflows, and enhance decision-making through machine learning and natural language processing technologies",
+          "The AI Engineer ensures compliance with relevant data privacy regulations and integrates AI systems with existing real estate platforms to drive innovation and operational efficiency across various business units",
+          "Design, develop, and deploy AI models and algorithms tailored to real estate applications such as property valuation, predictive analytics, and customer behavior analysis",
+          "Collaborate with data scientists, software engineers, and business stakeholders to integrate AI solutions into existing platforms and workflows",
+          "Analyze large datasets to extract actionable insights and improve model accuracy and performance",
+          "Maintain and optimize AI systems to ensure scalability, reliability, and compliance with industry regulations",
+          "Stay current with emerging AI technologies and real estate market trends to recommend innovative solutions",
+          "Document AI development processes and provide technical support and training to team members"
+        ]
+      }
+    ],
+    "apply_options": [
+      {
+        "title": "Relay Human Cloud",
+        "link": "https://www.relayhumancloud.com/jobs/ai-engineer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Indeed",
+        "link": "https://www.indeed.com/viewjob?jk=8a3f1005e5bd5357&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "ZipRecruiter",
+        "link": "https://www.ziprecruiter.com/c/GEI-Consultants/Job/AI-Engineer/-in-Dallas,TX?jid=a9d26f34d5d8679c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Startup Jobs",
+        "link": "https://startup.jobs/ai-engineer-capco-7782150?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Dice",
+        "link": "https://www.dice.com/job-detail/7c955d1a-b001-4a66-8acf-1e9ea23152a8?q=QLoRA&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Glassdoor",
+        "link": "https://www.glassdoor.com/job-listing/ai-engineer-burnett-specialists-JV_IC1139977_KO0,11_KE12,31.htm?jl=1010046549670&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Iitjobs",
+        "link": "https://www.iitjobs.com/job/ai-engineer-dallas-tx-usa-164824?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Teal",
+        "link": "https://www.tealhq.com/job/ai-engineer_7ea1a85d002f89b7fc544315d24d644075d17?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ],
+    "job_id": "eyJqb2JfdGl0bGUiOiJBSSBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IlJlbGF5IEh1bWFuIENsb3VkIiwiYWRkcmVzc19jaXR5IjoiRGFsbGFzLCBUWCIsImh0aWRvY2lkIjoibGtscWZIZWlUUXFzbXVud0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3cifQ=="
+  },
+  {
+    "title": "Principal AI Engineer with Security Clearance",
+    "company_name": "Integration Innovation, Inc.",
+    "location": "Huntsville, AL",
+    "via": "LinkedIn",
+    "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Engineer&htidocid=86MW2jBB_ytwV2VsAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_x2MQQrCMBBFcdsjuJq11FQEN7oqKlpxIXiAkoYhjcSZkExrPZcXNLp5vLf4v_jMisMtOjIuaA91A0eyjhAjvJz0cEczRCdv2HvUUZNBWMKFO0g5TQ9McGK2Hue7XiSkbVWl5JVNosUZZfhZMWHHU_XgLv3Qpl5HDF4LtuvNalKB7EI1JGhj3uTDhojHv5bZjQJHcB5I0ui8xxLq6xc-jAOKtgAAAA&shmds=v1_ATWGeeMwZWcgBaMN8507fqaKVAF2BNp26vfAmjT3A6dMJUdO2A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Engineer&htidocid=86MW2jBB_ytwV2VsAAAAAA%3D%3D",
+    "thumbnail": "https://serpapi.com/searches/69a73924529e4b335befd868/images/OFZm1-R3h3rF3PdGnxAFDVuFanbn8yvAIe2K-6aWnN0.jpeg",
+    "extensions": [
+      "9 days ago",
+      "Full-time",
+      "Health insurance",
+      "Paid time off"
+    ],
+    "detected_extensions": {
+      "posted_at": "9 days ago",
+      "schedule_type": "Full-time",
+      "health_insurance": true,
+      "paid_time_off": true
+    },
+    "description": "Overview i3 is seeking a Principal AI Engineer to lead the design, development, and deployment of AI-driven security and data solutions for defense and intelligence community customers. This role combines hands-on technical expertise with strategic leadership to advance i3's AI capabilities across cybersecurity threat detection, supply chain risk management, and mission-critical analytics platforms. This is a full-time position based in Huntsville, AL (with potential for hybrid flexibility). Responsibilities AI Security & Threat Detection\n• Design and optimize scalable data pipelines for security monitoring and threat detection systems supporting DoD AI workloads.\n• Develop automated threat generation and simulation modules to identify security control gaps.\n• Implement advanced detection logic to combat evolving attack vectors targeting AI systems and cloud infrastructure.\n• Conduct threat modeling using frameworks such as OWASP Top 10 and MITRE ATT&CK. AI/ML Solutions Engineering\n• Build and maintain scalable data pipelines for ingesting, cleansing, and transforming defense/intelligence datasets.\n• Apply AI/ML methods for predictive analytics, anomaly detection, and risk identification within supply chain and operational workflows.\n• Integrate AI-driven analytics into customer platforms through APIs, data services, and system interfaces.\n• Develop dashboards and reporting solutions enabling data-driven decisions by senior government stakeholders. Technical Leadership\n• Provide technical mentorship to junior engineers and data scientists.\n• Lead architecture discussions and drive technical decisions for AI/ML initiatives.\n• Collaborate with cross-functional teams including program managers, software engineers, and customer stakeholders.\n• Support proposal development and technical presentations to customers. Qualifications\n• Bachelor's degree in Computer Science, Data Science, AI/ML, or related technical field (Master's preferred).\n• At least 12+ years of experience in AI/ML development, data engineering, or cloud security.\n• Strong programming skills in Python, Java, and/or Go.\n• Proficiency with SQL, database design, and query optimization.\n• Experience with cloud platforms (AWS, Azure, GCP) and data services (Snowflake, Redshift).\n• Experience designing and operating large-scale distributed systems and real-time data processing pipelines.\n• Understanding of cybersecurity principles, threat detection, and security monitoring.\n• Ability to obtain and maintain a DoD Secret Security Clearance, but interim secret required to start. Preferred Qualifications:\n• Master's or PhD in Computer Science or related field.\n• Experience with ML/AI security and adversarial AI techniques.\n• Familiarity with GCP security tools and cloud-native security architectures.\n• Experience in DoD/IC environments and government contracting.\n• Knowledge of supply chain risk management (SCRM) and compliance frameworks.\n• Background in leading technical teams or projects. Knowledge/Skills\n• Strong preference for candidates with prior experience supporting the MDA or missile test data environments, including familiarity with data flow, system integration, or analysis processes unique to test missions.\n• Strong understanding of data management principles, including ingestion, parsing, cataloging, and metadata validation.\n• Proficiency in SQL and experience with scripting languages such as Python or R for data preparation and analysis.\n• Working knowledge of metadata standards, data dictionaries, and validation procedures.\n• Experience developing dashboards and visual reports in Power BI or Tableau.\n• Ability to analyze data quality and performance metrics to identify process bottlenecks or anomalies.\n• Strong communication skills; capable of translating technical data findings for non-technical audiences and leadership.\n• Understanding of data governance policies, retention schedules, and secure handling of classified information.\n• Collaborative and analytical mindset with the ability to work effectively across multidisciplinary teams.\n• Detail-oriented, proactive, and adept at managing multiple priorities in a mission-driven environment. PHYSICAL DEMANDS\n• The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job.\n• While performing the duties of this job, the employee is regularly required to talk or hear. The employee frequently is required to stand; walk; handle or feel; and reach with hands and arms.\n• The employee is occasionally required to sit; climb or balance; and stoop, kneel, crouch or crawl. The employee must be able to lift and/or move up to 10 pounds and occasionally lift and/or move up to 25 pounds.\n• Specific vision abilities required by this job include close vision, distance vision, peripheral vision, depth perception and ability to adjust focus.\n• Regular i3 hours are 8:00 a.m. - 5:00 p.m. Monday-Friday, however, additional hours may be required on occasion. Regular and punctual attendance is required. About i3 i3 is a technically diverse, 100% team member owned business, headquartered in Huntsville, Alabama specializing in missile and aviation systems engineering and logistic services, electronic warfare and electromagnetic effects analysis, UAS system integration and flight operations, full lifecycle C5ISR engineering services, cybersecurity and IT/IA innovative solutions and virtual training, simulation & serious game development and implementation. We have established a broad offering of products and capabilities collectively providing decades of experience supporting the full complement of DoD military services, Missile Defense Agency, National Aeronautics and Space Administration, and a variety of other Government organizations and private industry customers. Perks of being a team member owner include:\n• Long-term financial security\n• Higher job satisfaction\n• Greater job security\n• Personal and professional growth\n• Great company culture Other outstanding benefits:\n• Excellent insurance coverage\n• 401(k) match\n• Generous PTO\n• Health and wellness incentives\n• Tuition and certification reimbursement\n• Countless opportunities to give back to the community through i3 Cares We work hard. We compete hard. We play hard. Apply now to join us!",
+    "job_highlights": [
+      {
+        "title": "Qualifications",
+        "items": [
+          "At least 12+ years of experience in AI/ML development, data engineering, or cloud security",
+          "Strong programming skills in Python, Java, and/or Go",
+          "Proficiency with SQL, database design, and query optimization",
+          "Experience with cloud platforms (AWS, Azure, GCP) and data services (Snowflake, Redshift)",
+          "Experience designing and operating large-scale distributed systems and real-time data processing pipelines",
+          "Understanding of cybersecurity principles, threat detection, and security monitoring",
+          "Ability to obtain and maintain a DoD Secret Security Clearance, but interim secret required to start",
+          "Strong preference for candidates with prior experience supporting the MDA or missile test data environments, including familiarity with data flow, system integration, or analysis processes unique to test missions",
+          "Strong understanding of data management principles, including ingestion, parsing, cataloging, and metadata validation",
+          "Proficiency in SQL and experience with scripting languages such as Python or R for data preparation and analysis",
+          "Working knowledge of metadata standards, data dictionaries, and validation procedures",
+          "Experience developing dashboards and visual reports in Power BI or Tableau",
+          "Ability to analyze data quality and performance metrics to identify process bottlenecks or anomalies",
+          "Strong communication skills; capable of translating technical data findings for non-technical audiences and leadership",
+          "Understanding of data governance policies, retention schedules, and secure handling of classified information",
+          "Collaborative and analytical mindset with the ability to work effectively across multidisciplinary teams",
+          "Detail-oriented, proactive, and adept at managing multiple priorities in a mission-driven environment",
+          "The employee must be able to lift and/or move up to 10 pounds and occasionally lift and/or move up to 25 pounds",
+          "Specific vision abilities required by this job include close vision, distance vision, peripheral vision, depth perception and ability to adjust focus",
+          "Regular and punctual attendance is required"
+        ]
+      },
+      {
+        "title": "Benefits",
+        "items": [
+          "Long-term financial security",
+          "Higher job satisfaction",
+          "Greater job security",
+          "Personal and professional growth",
+          "Great company culture Other outstanding benefits:",
+          "Excellent insurance coverage",
+          "401(k) match",
+          "Generous PTO",
+          "Health and wellness incentives",
+          "Tuition and certification reimbursement",
+          "Countless opportunities to give back to the community through i3 Cares We work hard"
+        ]
+      },
+      {
+        "title": "Responsibilities",
+        "items": [
+          "Responsibilities AI Security & Threat Detection",
+          "Design and optimize scalable data pipelines for security monitoring and threat detection systems supporting DoD AI workloads",
+          "Develop automated threat generation and simulation modules to identify security control gaps",
+          "Implement advanced detection logic to combat evolving attack vectors targeting AI systems and cloud infrastructure",
+          "Conduct threat modeling using frameworks such as OWASP Top 10 and MITRE ATT&CK",
+          "AI/ML Solutions Engineering",
+          "Build and maintain scalable data pipelines for ingesting, cleansing, and transforming defense/intelligence datasets",
+          "Apply AI/ML methods for predictive analytics, anomaly detection, and risk identification within supply chain and operational workflows",
+          "Integrate AI-driven analytics into customer platforms through APIs, data services, and system interfaces",
+          "Develop dashboards and reporting solutions enabling data-driven decisions by senior government stakeholders. Technical Leadership",
+          "Provide technical mentorship to junior engineers and data scientists",
+          "Lead architecture discussions and drive technical decisions for AI/ML initiatives",
+          "Collaborate with cross-functional teams including program managers, software engineers, and customer stakeholders",
+          "Support proposal development and technical presentations to customers",
+          "The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job",
+          "While performing the duties of this job, the employee is regularly required to talk or hear",
+          "The employee frequently is required to stand; walk; handle or feel; and reach with hands and arms",
+          "The employee is occasionally required to sit; climb or balance; and stoop, kneel, crouch or crawl",
+          "Regular i3 hours are 8:00 a.m. - 5:00 p.m. Monday-Friday, however, additional hours may be required on occasion"
+        ]
+      }
+    ],
+    "apply_options": [
+      {
+        "title": "LinkedIn",
+        "link": "https://www.linkedin.com/jobs/view/principal-ai-engineer-with-security-clearance-at-integration-innovation-inc-4377194026?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "BeBee",
+        "link": "https://us.bebee.com/job/1ec062f6f4bfee8ed66d44814be1b633?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Adzuna",
+        "link": "https://www.adzuna.com/details/5640423740?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ],
+    "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgQUkgRW5naW5lZXIgd2l0aCBTZWN1cml0eSBDbGVhcmFuY2UiLCJjb21wYW55X25hbWUiOiJJbnRlZ3JhdGlvbiBJbm5vdmF0aW9uLCBJbmMuIiwiYWRkcmVzc19jaXR5IjoiSHVudHN2aWxsZSwgQUwiLCJodGlkb2NpZCI6Ijg2TVcyakJCX3l0d1YyVnNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3In0="
+  },
+  {
+    "title": "Artificial Intelligence (AI) Engineer",
+    "company_name": "Ascension Federal Services Inc.",
+    "location": "Tampa, FL",
+    "via": "Indeed",
+    "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Engineer&htidocid=XMjhWd2An-7wbnO6AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXOsQrCMBCAYVz7CE43qtRUBBd16WCl4qZ7Sc8zPUkvIRfEV_Itrcs__nzFd1Yc65T5ycjWQyuZvGdHggSLul3CSRwLUYI1XEIPSjbhAEHgHILzND8MOUfdV5WqN06zzYwGw1gFoT58qlfo9Z9OB5soepup2-42HxPFrcpakUR52jX0oDQJbpTejKQTBQ2wwN2O0ZbQXH8I4EakrAAAAA&shmds=v1_ATWGeeM69Xb5dLTd2e-FFpeJ2VJ1QOJ0atftODJTa0MgjXGytA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Engineer&htidocid=XMjhWd2An-7wbnO6AAAAAA%3D%3D",
+    "extensions": [
+      "Full-time",
+      "Health insurance",
+      "Dental insurance"
+    ],
+    "detected_extensions": {
+      "schedule_type": "Full-time",
+      "health_insurance": true,
+      "dental_coverage": true
+    },
+    "description": "Job Description: Artificial Intelligence (AI) Engineer\n\nLocation: Tampa, FL, 33601\n\nWe are seeking an experienced Artificial Intelligence (AI) Engineer to join our team in Tampa, FL. The ideal candidate will have a strong background in computer science, mathematics, and statistics, as well as experience in developing and implementing AI solutions.\n\nResponsibilities:\n• Design and develop AI algorithms and models\n• Implement and test AI solutions\n• Collaborate with cross-functional teams to integrate AI solutions into existing systems\n• Continuously improve AI models and algorithms based on feedback and performance metrics\n• Stay up-to-date with the latest AI technologies and trends\n\nRequirements:\n• Bachelor's or Master's degree in Computer Science, Mathematics, or related field\n• 5+ Years experience in developing and implementing AI solutions\n• Strong programming skills in languages such as Python, Java, or C++\n• Experience with machine learning frameworks such as TensorFlow, Keras, or PyTorch\n• Strong analytical and problem-solving skills\n• Excellent communication and collaboration skills\n\nBenefits:\n• Health, dental, and vision insurance\n• 401k\n• Flexible work environment - you manage your workday.",
+    "job_highlights": [
+      {
+        "title": "Qualifications",
+        "items": [
+          "The ideal candidate will have a strong background in computer science, mathematics, and statistics, as well as experience in developing and implementing AI solutions",
+          "Bachelor's or Master's degree in Computer Science, Mathematics, or related field",
+          "5+ Years experience in developing and implementing AI solutions",
+          "Strong programming skills in languages such as Python, Java, or C++",
+          "Experience with machine learning frameworks such as TensorFlow, Keras, or PyTorch",
+          "Strong analytical and problem-solving skills",
+          "Excellent communication and collaboration skills"
+        ]
+      },
+      {
+        "title": "Benefits",
+        "items": [
+          "Health, dental, and vision insurance",
+          "401k",
+          "Flexible work environment - you manage your workday"
+        ]
+      },
+      {
+        "title": "Responsibilities",
+        "items": [
+          "Design and develop AI algorithms and models",
+          "Implement and test AI solutions",
+          "Collaborate with cross-functional teams to integrate AI solutions into existing systems",
+          "Continuously improve AI models and algorithms based on feedback and performance metrics",
+          "Stay up-to-date with the latest AI technologies and trends"
+        ]
+      }
+    ],
+    "apply_options": [
+      {
+        "title": "Indeed",
+        "link": "https://www.indeed.com/viewjob?jk=db847ccc2adeeb6d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "ZipRecruiter",
+        "link": "https://www.ziprecruiter.com/c/Ascension-Federal-Services/Job/Artificial-Intelligence-(AI)-Engineer/-in-Tampa,FL?jid=a2a28ee9ab6adfb7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "SimplyHired",
+        "link": "https://www.simplyhired.com/job/6x29dAJmYo8GggVEG4StvYf1VdvR7YWiUcR4e9WWup-cYDNowFv7DA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Adzuna",
+        "link": "https://www.adzuna.com/details/5344658815?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "BillGoldenJobs.com",
+        "link": "https://jobzone.billgoldenjobs.com/jobs/258544763-artificial-intelligence-ai-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "AI Search",
+        "link": "https://ai-search.io/job-board/robert-half-artificial-intelligence-ai-engineer-20251120?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ],
+    "job_id": "eyJqb2JfdGl0bGUiOiJBcnRpZmljaWFsIEludGVsbGlnZW5jZSAoQUkpIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiQXNjZW5zaW9uIEZlZGVyYWwgU2VydmljZXMgSW5jLiIsImFkZHJlc3NfY2l0eSI6IlRhbXBhLCBGTCIsImh0aWRvY2lkIjoiWE1qaFdkMkFuLTd3Ym5PNkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3cifQ=="
+  },
+  {
+    "title": "AI Machine Learning Engineer",
+    "company_name": "Children's Healthcare of Atlanta",
+    "location": "Brookhaven, GA",
+    "via": "Children's Healthcare Of Atlanta Jobs",
+    "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Engineer&htidocid=VYT_ia_TRhgsQcxEAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWKQQrCMBAA8doneNqbINpIxYueqkhV9A1lG9ckGndLNkhf5Dutl4EZpvhOinV9hhtaH5jgSpg4sIMju9EpwRIu0oGO3XoQhkbERZrufM69bo1RjaXTjDnY0srbCFMng3lKp3-06jFRHzFTW21WQ9mzm1cHH-I9Ec8UToQxeztOIA-oc0TOCIFhn0ReHj_EC2jqH3HJdYSpAAAA&shmds=v1_ATWGeeOjOcd9Cq8JFV-zMtqsheHM0cnurzhdubBm6vicFFvV4w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Engineer&htidocid=VYT_ia_TRhgsQcxEAAAAAA%3D%3D",
+    "thumbnail": "https://serpapi.com/searches/69a73924529e4b335befd868/images/8Ds_DsY8vk_30Al1OJUbBkGqljI3DAmb-NcFKmOzQGM.png",
+    "extensions": [
+      "14 days ago",
+      "Full-time"
+    ],
+    "detected_extensions": {
+      "posted_at": "14 days ago",
+      "schedule_type": "Full-time"
+    },
+    "description": "Note: If you are CURRENTLY employed at Children's and/or have an active badge or network access, STOP here. Submit your application via Workday using the Career App (Find Jobs).\n\nWork Shift\nDay\n\nWork Day(s)\nFriday, Monday, Thursday, Tuesday, Wednesday\n\nShift Start Time\n8:00 AM\n\nShift End Time\n\n5:00 PM\n\nWorker Sub-Type\n\nRegular\n\nChildren’s is one of the nation’s leading children’s hospitals. No matter the role, every member of our team is an essential part of our mission to make kids better today and healthier tomorrow. We’re committed to putting you first, and that commitment is at the heart of our company culture: People first. Children always. Find your next career opportunity and make a difference doing what you love at Children’s.\n\nJob Description\n\nThe AI Machine Learning Engineer bridges the gap between data science and implementation. They support data scientists and clinical informaticists in the development, deployment and maintenance of production-grade applications that leverage Machine Learning (ML) and Artificial Intelligence (AI). They partner with clinicians, subject matter experts, analytics developers, researchers, and data engineers to ensure that the delivered solutions provide actionable real-time insights that are in line with the system’s clinical, financial and operational goals. They work closely with analytics leaders and business partners to bring the latest advances in ML and AI systems and processes to advance Children’s overall analytics.\n\nExperience\n• Must be local and able to work hybrid\n• Must be US Citizen or Green Card Holder\n• 2 years of experience in a Machine Learning Engineering, Data Science or Data Engineering role\n• 1 year of experience in implementing machine learning algorithms in a production environment or applying software development lifecycle principles to analytics\n\nPreferred Qualifications\n• Experience developing software and data infrastructure to support the validation and operationalization of predictive models, including tools to support analysis, model. optimization, drift detection, model versioning, deployment and monitoring of model performance and features.\n• Experience with model training and inference in common machine learning libraries and frameworks (scikit-learn, H2O, Tensorflow, PyTorch, Datarobot).\n• Experience working with healthcare data (payer or provider) in a HIPAA regulated environment.\n• Epic certification or badges in Cogito, Cognitive Computing Platform, Chronicles and Interconnect.\n• Azure Certifications in Data Fundamentals, AI Fundamentals, Data Science or Data Engineering\n\nEducation\n• Bachelor’s degree in Information Systems, Data Science, Machine Learning, Computer Science, Industrial Engineering, or Analytics.\n• Master’s degree in Information Systems, Data Science, Machine Learning, Computer Science, Industrial Engineering, or Analytics or four years of industry experience in lieu of Master’s degree\n\nCertification Summary\n• No professional certifications required.\n\nKnowledge, Skills and Abilities\n• Familiarity with electronic health records (e.g., Epic, Cerner), ERP (e.g., Workday), or other business systems used at Children’s.\n• Familiarity with cloud computing (Azure, AWS, Google Cloud) with focus on machine learning and data science tools (Databricks, Snowflake, Azure ML).\n• Familiarity with leveraging open-source foundation large language models to build custom domain-specific applications.\n• Working knowledge of machine learning concepts such as feature engineering, hyperparameter tuning, bias and variance tradeoff, model and data drift, and common metrics to evaluate model performance.\n• Knowledge of data structure and data modelling principles and ability to efficiently ingest and process large datasets using Python, SQL, PySpark, and Scala.\n• Knowledge of software development methodologies and architecture including API web services.\n• Skilled at writing robust, production-grade code for application in predictive analytics (e.g.,Python, R, Java, Scala).\n• Ability to reduce complexity and apply coding standards and best practices to data and machine learning pipelines, including code packaging, unit testing, data validation, containerization, automation, and CI/CD.\n• Ability to create effective technical documentation and communicate requirements to business partners and vendors.\n• Ability to work and provide coaching in agile, iterative frameworks, as well as develop in shared coding environments and collaborate with other developers using source control tools (i.e. Git).\n\nJob Responsibilities\n• Works closely with data scientists, data engineers and software engineers to develop and optimize reproducible and reusable pipelines for model training, validation, and inference.\n• Monitors and troubleshoots AI and ML systems to ensure high availability, performance and reliability.\n• Partners with subject matter experts and other non-technical stakeholders to understand their needs and effectively capture clinical and business system workflows when designing AI solutions.\n• Develops and improves Children’s model development lifecycle by defining technical standards while reducing unnecessary complexity.\n• Leads code reviews and debugging sessions as well as mentors and develops data scientists and analytics developers to improve code quality.\n• Follows technical guidelines and best practices for project management, source control, documentation, and responsible and ethical AI.\n• Collaborates with enterprise architects, analytics platform services and other technical leaders to create and maintain an up-to-date machine learning architecture roadmap.\n• Partners with researchers on translational projects that are aligned with quality and operational goals, ensuring appropriate technical standards and regulatory compliance are followed.\n• Contributes to organizational knowledge by participating in internal knowledge shares and seminars, research conferences, and online learning.\n\nChildren’s Healthcare of Atlanta is an equal opportunity employer committed to providing equal employment opportunities to all qualified applicants and employees without regard to race, color, sex, religion, national origin, citizenship, age, veteran status, disability or any other characteristic covered by applicable law.\n\nPrimary Location Address\n\n1575 Northeast Expy NE\n\nJob Family\n\nBusiness Intelligence",
+    "job_highlights": [
+      {
+        "title": "Qualifications",
+        "items": [
+          "Must be local and able to work hybrid",
+          "Must be US Citizen or Green Card Holder",
+          "2 years of experience in a Machine Learning Engineering, Data Science or Data Engineering role",
+          "1 year of experience in implementing machine learning algorithms in a production environment or applying software development lifecycle principles to analytics",
+          "Experience with model training and inference in common machine learning libraries and frameworks (scikit-learn, H2O, Tensorflow, PyTorch, Datarobot)",
+          "Experience working with healthcare data (payer or provider) in a HIPAA regulated environment",
+          "Epic certification or badges in Cogito, Cognitive Computing Platform, Chronicles and Interconnect",
+          "Azure Certifications in Data Fundamentals, AI Fundamentals, Data Science or Data Engineering",
+          "Bachelor’s degree in Information Systems, Data Science, Machine Learning, Computer Science, Industrial Engineering, or Analytics",
+          "Master’s degree in Information Systems, Data Science, Machine Learning, Computer Science, Industrial Engineering, or Analytics or four years of industry experience in lieu of Master’s degree",
+          "No professional certifications required",
+          "Familiarity with electronic health records (e.g., Epic, Cerner), ERP (e.g., Workday), or other business systems used at Children’s",
+          "Familiarity with cloud computing (Azure, AWS, Google Cloud) with focus on machine learning and data science tools (Databricks, Snowflake, Azure ML)",
+          "Familiarity with leveraging open-source foundation large language models to build custom domain-specific applications",
+          "Working knowledge of machine learning concepts such as feature engineering, hyperparameter tuning, bias and variance tradeoff, model and data drift, and common metrics to evaluate model performance",
+          "Knowledge of data structure and data modelling principles and ability to efficiently ingest and process large datasets using Python, SQL, PySpark, and Scala",
+          "Knowledge of software development methodologies and architecture including API web services",
+          "Skilled at writing robust, production-grade code for application in predictive analytics (e.g.,Python, R, Java, Scala)",
+          "Ability to reduce complexity and apply coding standards and best practices to data and machine learning pipelines, including code packaging, unit testing, data validation, containerization, automation, and CI/CD",
+          "Ability to create effective technical documentation and communicate requirements to business partners and vendors",
+          "Ability to work and provide coaching in agile, iterative frameworks, as well as develop in shared coding environments and collaborate with other developers using source control tools (i.e",
+          "Git)"
+        ]
+      },
+      {
+        "title": "Responsibilities",
+        "items": [
+          "Shift Start Time",
+          "They support data scientists and clinical informaticists in the development, deployment and maintenance of production-grade applications that leverage Machine Learning (ML) and Artificial Intelligence (AI)",
+          "They partner with clinicians, subject matter experts, analytics developers, researchers, and data engineers to ensure that the delivered solutions provide actionable real-time insights that are in line with the system’s clinical, financial and operational goals",
+          "They work closely with analytics leaders and business partners to bring the latest advances in ML and AI systems and processes to advance Children’s overall analytics",
+          "optimization, drift detection, model versioning, deployment and monitoring of model performance and features",
+          "Works closely with data scientists, data engineers and software engineers to develop and optimize reproducible and reusable pipelines for model training, validation, and inference",
+          "Monitors and troubleshoots AI and ML systems to ensure high availability, performance and reliability",
+          "Partners with subject matter experts and other non-technical stakeholders to understand their needs and effectively capture clinical and business system workflows when designing AI solutions",
+          "Develops and improves Children’s model development lifecycle by defining technical standards while reducing unnecessary complexity",
+          "Leads code reviews and debugging sessions as well as mentors and develops data scientists and analytics developers to improve code quality",
+          "Follows technical guidelines and best practices for project management, source control, documentation, and responsible and ethical AI",
+          "Collaborates with enterprise architects, analytics platform services and other technical leaders to create and maintain an up-to-date machine learning architecture roadmap",
+          "Partners with researchers on translational projects that are aligned with quality and operational goals, ensuring appropriate technical standards and regulatory compliance are followed",
+          "Contributes to organizational knowledge by participating in internal knowledge shares and seminars, research conferences, and online learning"
+        ]
+      }
+    ],
+    "apply_options": [
+      {
+        "title": "Children's Healthcare Of Atlanta Jobs",
+        "link": "https://careers.choa.org/us/en/job/R-32994/AI-Machine-Learning-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Indeed",
+        "link": "https://www.indeed.com/viewjob?jk=76abf12d4469b336&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "ZipRecruiter",
+        "link": "https://www.ziprecruiter.com/c/Cox-Automotive/Job/Sr-Machine-Learning-Engineer/-in-Brookhaven,GA?jid=e150bb4106ebdf81&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Glassdoor",
+        "link": "https://www.glassdoor.com/job-listing/ai-machine-learning-engineer-children-s-healthcare-of-atlanta-JV_IC3825369_KO0,28_KE29,61.htm?jl=1009989311962&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "LinkedIn",
+        "link": "https://www.linkedin.com/jobs/view/ai-machine-learning-engineer-at-children-s-healthcare-of-atlanta-4365017214?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "BeBee",
+        "link": "https://us.bebee.com/job/73c20361e83f7f201b76cfbf06808ea6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Jobrapido",
+        "link": "https://us.jobrapido.com/jobpreview/3330457650809798656?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ],
+    "job_id": "eyJqb2JfdGl0bGUiOiJBSSBNYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiQ2hpbGRyZW4ncyBIZWFsdGhjYXJlIG9mIEF0bGFudGEiLCJhZGRyZXNzX2NpdHkiOiJCcm9va2hhdmVuLCBHQSIsImh0aWRvY2lkIjoiVllUX2lhX1RSaGdzUWN4RUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3cifQ=="
+  }
+]
