@@ -29,7 +29,7 @@ from ai_job_agent.src.utils.logger import setup_logger
 from ai_job_agent.src.utils.storage import save_json
 
 _DATA_DIR = Path(__file__).resolve().parents[3] / "data"
-_CONFIG_DIR = Path(__file__).resolve().parents[3] / "config"
+_CONFIG_DIR = Path(__file__).resolve().parents[2] / "config"
 
 
 class RankModule:

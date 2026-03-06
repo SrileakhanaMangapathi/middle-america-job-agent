@@ -1,0 +1,24 @@
+[
+  {
+    "job_id": "56126cc93e594cf1c01605e6142bb592fb74302e5f4fd3feb99e73086ab13b66",
+    "title": "Applied AI Engineer-Vice President",
+    "company": "JPMC Candidate Experience page",
+    "location": "Delaware, OH",
+    "total_score": 44.09,
+    "skill_score": 2.76,
+    "location_score": 80.0,
+    "recency_score": 93.55,
+    "explanation": "3% skill match | preferred state (OH) | posted 2 days ago"
+  },
+  {
+    "job_id": "1a13c24e120ce0c82b600a7c6a13a66c4624c9337806db36c85d2d921a8118f3",
+    "title": "AI Platform Engineering Manager",
+    "company": "Allstate",
+    "location": "Remote, OR",
+    "total_score": 50.48,
+    "skill_score": 2.26,
+    "location_score": 100.0,
+    "recency_score": 96.72,
+    "explanation": "2% skill match | remote | posted 1 day ago"
+  }
+]

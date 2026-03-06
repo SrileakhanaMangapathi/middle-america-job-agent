@@ -1,0 +1,82 @@
+[
+  {
+    "job_id": "31b670d730f7cd9ad00f7fa868ca180ed809d2e48aeb19d654dbdeb5d3b5644b",
+    "title": "Artificial Intelligence (AI) Engineer",
+    "company": "Robert Half",
+    "location": "Tampa, FL",
+    "decision": "REJECT",
+    "reason": "location not in preferred states; location='Tampa, FL'"
+  },
+  {
+    "job_id": "5a39a4c8c85ec8c4c483832c2d36bddba0ce61065d66b79786229950088e3681",
+    "title": "Staff AI Platform Engineer",
+    "company": "EchoStar",
+    "location": "Northglenn, CO",
+    "decision": "REJECT",
+    "reason": "location not in preferred states; location='Northglenn, CO'"
+  },
+  {
+    "job_id": "56126cc93e594cf1c01605e6142bb592fb74302e5f4fd3feb99e73086ab13b66",
+    "title": "Applied AI Engineer-Vice President",
+    "company": "JPMC Candidate Experience page",
+    "location": "Delaware, OH",
+    "decision": "PASS",
+    "reason": "passed all filters"
+  },
+  {
+    "job_id": "d151ee4c8e6f1ce66fc1a6224252f7430f704971c41c1461add187039da39e80",
+    "title": "AI Engineer – Entry Level",
+    "company": "Centennial Technologies",
+    "location": "Tysons, VA",
+    "decision": "REJECT",
+    "reason": "location not in preferred states; location='Tysons, VA'"
+  },
+  {
+    "job_id": "1a13c24e120ce0c82b600a7c6a13a66c4624c9337806db36c85d2d921a8118f3",
+    "title": "AI Platform Engineering Manager",
+    "company": "Allstate",
+    "location": "Remote, OR",
+    "decision": "PASS",
+    "reason": "passed all filters"
+  },
+  {
+    "job_id": "0c3441b35de7378d2a7b7ef11b6578bdf864985ec12f713f708b25d5f0dd5388",
+    "title": "Distinguished Engineer - AI Infrastructure Architecture",
+    "company": "Cisco",
+    "location": "Portland, OR (+36 others)",
+    "decision": "REJECT",
+    "reason": "location not in preferred states; location='Portland, OR (+36 others)'"
+  },
+  {
+    "job_id": "172353603fd0c9f85c64554668b89f2839fa1f6cab053f090ef122f85db4db9d",
+    "title": "Senior AI Data and Evaluation Engineer",
+    "company": "Stryker",
+    "location": "Menlo Park, CA",
+    "decision": "REJECT",
+    "reason": "location not in preferred states; location='Menlo Park, CA'"
+  },
+  {
+    "job_id": "4e37bc63aa4effb2b3349e0c72d4e2077c8e64f597768e049b9f8bd555cc1e2f",
+    "title": "Senior Security Artificial Intelligence Engineer",
+    "company": "Atlas",
+    "location": "San Angelo, TX",
+    "decision": "REJECT",
+    "reason": "location not in preferred states; location='San Angelo, TX'"
+  },
+  {
+    "job_id": "af698eca1689801f80b472555e8e57d039038bbd53d8aec267239043ed470b80",
+    "title": "AI Engineer",
+    "company": "MassMutual",
+    "location": "Chicopee, MA",
+    "decision": "REJECT",
+    "reason": "location not in preferred states; location='Chicopee, MA'"
+  },
+  {
+    "job_id": "20b9605e9b3ea54c7042c70ad1f518c17f65610295d960e0b3861dc10bd6738b",
+    "title": "AI Engineer",
+    "company": "Relay Human Cloud",
+    "location": "Dallas, TX",
+    "decision": "REJECT",
+    "reason": "location not in preferred states; location='Dallas, TX'"
+  }
+]

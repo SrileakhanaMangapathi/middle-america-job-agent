@@ -4,3 +4,5 @@ tenacity
 pytest
 pyyaml
 spacy
+google-genai
+pdfplumber
